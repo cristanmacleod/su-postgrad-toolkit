@@ -1,0 +1,4284 @@
+<?xml version="1.0"?>
+<presentation title="The Postgraduate Research Degree Toolkit SU 2021 (mobile)" width="720.0000000" height="540.0000000" thmbWidth="0.0000000" thmbHeight="0.0000000" frameRate="24.0000000" looping="0" startingSlideShow="" pptVersion="2013" type="compound" hasExternalAudio="0" uid="{C4D9C4A8-8977-4549-B0C6-F6A9E8F7B1E1}">
+	<presenters>
+		<presenter name="Postgraduate Office" title="" email="pgskills@sun.ac.za" web="http://www.sun.ac.za/pgo/pgskills" phone="021 808 4186" photoAssetId="imgAsset0">
+			<bio>Stellenbosch University's Postgraduate Office: Postgraduate Skills Development </bio>
+		</presenter>
+	</presenters>
+	<references>
+		<reference type="reference" title="Enhancing Postgraduate Environments (EPE) resource web" url="http://www.postgradenvironments.com/" target="_self"/>
+		<reference type="reference" title="SU Postgraduate Skills Development list of resources" url="http://www.sun.ac.za/english/research-innovation/Research-Development/resources" target="_blank"/>
+	</references>
+	<soundAssets>
+		<soundAsset id="sndAsset0" src="sound1.mp3" embedded="0" size="3673593" duration="306132"/>
+		<soundAsset id="sndAsset1" src="sound2.mp3" embedded="0" size="1585887" duration="132157"/>
+	</soundAssets>
+	<sharedAssetsLibrary src="assets.swf"/>
+	<graphicAssets>
+		<graphicAsset id="imgAsset0" src="photo1.swf" embedded="0"/>
+	</graphicAssets>
+	<backgroundSound soundAssetId="" looping="0" volume="1.0000000"/>
+	<narration/>
+	<settings>
+		<navigation>
+			<keyboard enabled="1">
+				<actions>
+					<action name="playPause">
+						<shortcut code="32" control="0" shift="0"/>
+					</action>
+					<action name="nextSlide">
+						<shortcut code="34" control="0" shift="0"/>
+					</action>
+					<action name="previousSlide">
+						<shortcut code="33" control="0" shift="0"/>
+					</action>
+					<action name="nextStep">
+						<shortcut code="13" control="0" shift="0"/>
+					</action>
+					<action name="previousStep">
+						<shortcut code="13" control="0" shift="1"/>
+					</action>
+					<action name="firstSlide">
+						<shortcut code="36" control="1" shift="0"/>
+					</action>
+					<action name="lastSlide">
+						<shortcut code="35" control="1" shift="0"/>
+					</action>
+					<action name="lastViewedSlide">
+						<shortcut code="8" control="0" shift="0"/>
+					</action>
+					<action name="slideStart">
+						<shortcut code="36" control="0" shift="0"/>
+					</action>
+					<action name="slideEnd">
+						<shortcut code="35" control="0" shift="0"/>
+					</action>
+					<action name="seekForward">
+						<shortcut code="39" control="0" shift="0"/>
+					</action>
+					<action name="seekBackward">
+						<shortcut code="37" control="0" shift="0"/>
+					</action>
+					<action name="volumeUp">
+						<shortcut code="38" control="0" shift="0"/>
+					</action>
+					<action name="volumeDown">
+						<shortcut code="40" control="0" shift="0"/>
+					</action>
+					<action name="toggleFullscreen">
+						<shortcut code="70" control="1" shift="0"/>
+					</action>
+				</actions>
+			</keyboard>
+			<mouse enabled="1" target="step"/>
+			<gesture zoom="1"/>
+		</navigation>
+		<skin>
+			<colorSettings>
+				<color id="button.content.normal">#FFFFFF</color>
+				<color id="button.content.over">#FFFFFF</color>
+				<color id="button.face.normal">#777777</color>
+				<color id="button.face.over">#575757</color>
+				<color id="companyLogo.background">#FFFFFF</color>
+				<color id="hyperlink">#097CE7</color>
+				<color id="listItem.face.over">#E8E8E8</color>
+				<color id="listItem.face.pressed">#6E6E6E</color>
+				<color id="listItem.label.over">#000000</color>
+				<color id="listItem.label.pressed">#FFFFFF</color>
+				<color id="listItem.label.visited">#A1A1A1</color>
+				<color id="page.background">#8A8A8A</color>
+				<color id="panel.background">#F7F7F7</color>
+				<color id="panel.text">#323232</color>
+				<color id="player.background">#D4D4D4</color>
+				<color id="popup.background">#FFFFFF</color>
+				<color id="progress.background">#6E6E6E</color>
+				<color id="progress.loading">#D0D0D0</color>
+				<color id="progress.playback">#A1A1A1</color>
+				<color id="text">#4D4D4D</color>
+			</colorSettings>
+			<controlPanelSettings>
+				<visible>false</visible>
+				<showOutline>false</showOutline>
+				<showPlayPause>false</showPlayPause>
+				<showRewind>false</showRewind>
+				<showVolumeControl>false</showVolumeControl>
+				<showCCButton>false</showCCButton>
+				<showPrevButton>false</showPrevButton>
+				<showNextButton>false</showNextButton>
+				<showSlideOnlyButton>false</showSlideOnlyButton>
+				<progressBar>
+					<visible>false</visible>
+					<enabled>true</enabled>
+					<showLabels>true</showLabels>
+					<mode>slideTimeline</mode>
+				</progressBar>
+				<navigationMode>bySlides</navigationMode>
+			</controlPanelSettings>
+			<titlePanelSettings>
+				<showLogo>false</showLogo>
+				<visible>true</visible>
+				<buttons>
+					<button type="notes" visible="false"/>
+					<button type="attachments" visible="true"/>
+					<button type="presenterInfo" visible="true"/>
+					<button type="markerTools" visible="false"/>
+					<button type="outline" visible="false"/>
+				</buttons>
+			</titlePanelSettings>
+			<outlinePanelSettings>
+				<numberEntries>true</numberEntries>
+				<highlightViewedEntries>false</highlightViewedEntries>
+				<thumbnails>false</thumbnails>
+				<search>true</search>
+				<multilevel>true</multilevel>
+			</outlinePanelSettings>
+			<sidePanelSettings>
+				<showAtLeft>false</showAtLeft>
+				<showLogo>false</showLogo>
+				<showPresenterInfo>false</showPresenterInfo>
+				<showPresenterVideo>false</showPresenterVideo>
+				<visible>false</visible>
+				<tabsPanel>
+					<showOutline>false</showOutline>
+					<showNotes>false</showNotes>
+				</tabsPanel>
+			</sidePanelSettings>
+		</skin>
+		<appearance fullScreen="1" showSlidePreloader="1"/>
+		<playback autoStart="1" syncWithVideoNarration="1" enableVideoControl="1" resumePresentationPlayback="never"/>
+	</settings>
+	<slides embedded="0">
+		<slide index="0" title="" titleNormalized="" src="slide1.swf" size="43279" advanceOnTime="0" framesCount="25" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="" presenterIndex="0">
+			<sounds>
+				<sound id="sound0" soundAssetId="sndAsset0" hasTriggerEffects="1" slides="1" repeat="untilNextSlide" volume="0.8000000" effect="0"/>
+				<sound id="sound1" soundAssetId="sndAsset1" hasTriggerEffects="1" slides="1" repeat="untilNextSlide" volume="0.8000000" effect="0"/>
+			</sounds>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="24" playTime="1.0000000" pauseTime="8.6999998"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Your SU guide to completing your Research Degree!
+Considering a Research Degree?
+Writing Up
+Conducting your Research
+Getting Started
+Research Project Management
+CONSIDERING A RESEARCH DEGREE?
+PROJECT MANAGEMENT
+DOING YOUR RESEARCH 
+WRITING UP
+GETTING STARTED
+JOURNEY MAP
+Welcome to the Postgraduate Office’s Research Degree Toolkit
+A research degree differs from undergraduate study in many ways: 
+
+In an undergraduate degree, you mostly learn from existing knowledge; in a research degree you learn how to create new knowledge. You are expected to work independently and project manage your degree. This means structuring your time, deciding what to do when, arranging resources and people to help you do your research. As you progress through your research journey, you will get better at these things. Instead of sitting passively in a class, this development takes place through trying new things in a research environment where you can interact (with people and books!) and get feedback on your work. Stellenbosch University (SU) offers fantastic learning environments, but a lot of the interaction will have to be driven by you. This toolkit offers advice and information that can help you take charge of your degree – from deciding whether it is indeed what you want to do, all the way through to writing up and completing your thesis or dissertation. 
+
+
+Soundtrack
+Explore the Toolkit</text>
+		</slide>
+		<slide index="1" title="" titleNormalized="" src="slide2.swf" size="56219" advanceOnTime="0" framesCount="291" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="90" playTime="3.7500000"/>
+				<step start="91" end="151" playTime="2.5000000"/>
+				<step start="152" end="290" playTime="5.7500000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Considering a Research Degree?
+Writing Up
+Conducting your Research
+Getting Started
+Research Project Management
+
+Click on any of the large circles to explore main phases in your research journey. 
+			
+ Click to continue
+Applying &amp; Registering
+Do I have what it takes?
+How much will it cost?
+How long will it take?
+Considering a Research Degree?
+
+Click on any of the smaller circles to find out more about specific aspects within each phase.
+
+ Click to continue
+How long will it take?
+How much will it cost?
+Do I have what it takes?
+Applying &amp; Registering
+Considering a Research Degree?
+How long will it take?
+
+At any time, you can use the top bar to navigate to the main phases in your research journey.
+
+
+And the menu on the left to find navigate the smaller steps within each phase
+
+
+Got it, thanks. Continue with toolkit
+CONSIDERING A RESEARCH DEGREE?
+PROJECT MANAGEMENT
+DOING YOUR RESEARCH 
+WRITING UP
+GETTING STARTED
+JOURNEY MAP</text>
+		</slide>
+		<slide index="2" title="" titleNormalized="" src="slide3.swf" size="10120" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Your guide to completing your Research Degree!
+Considering a Research Degree?
+Writing Up
+Conducting your Research
+Getting Started
+Research Project Management
+CONSIDERING A RESEARCH DEGREE?
+PROJECT MANAGEMENT
+DOING YOUR RESEARCH 
+WRITING UP
+GETTING STARTED
+JOURNEY MAP</text>
+		</slide>
+		<slide index="3" title="" titleNormalized="" src="slide4.swf" size="34304" advanceOnTime="0" framesCount="49" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="48" playTime="2.0000000" pauseTime="3.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Applying &amp; Registering
+Do I have what it takes?
+How much will it cost?
+How long will it take?
+Considering a Research Degree at SU?
+CONSIDERING A RESEARCH DEGREE?
+PROJECT MANAGEMENT
+DOING YOUR RESEARCH 
+WRITING UP
+GETTING STARTED
+JOURNEY MAP</text>
+		</slide>
+		<slide index="4" title="" titleNormalized="" src="slide5.swf" size="12877" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>How long will it take?
+How much will it cost?
+Do I have what it takes?
+Applying &amp; Registering
+Master's Degree
+
+According to Stellenbosch University regulations, the minimum period for getting a Master's degree after a Bachelor's degree is 2 years and after an Honours degree, is 1 year. Most Master's students complete their degree in 2 to 3 years. 
+
+Doctorate
+
+The minimum period for a PhD is 2 years. Maximum periods allowed for completion vary across faculties and are dependent on your progress, but it is not often that you will be allowed to continue after 5 years without substantial progress. There is a general expectation that you should finish in 3 years, but the average duration for a PhD countrywide, is 4 to 6 years. 
+Considering a Research Degree at SU?
+How long will it take?
+TIP
+ Click here to do the maths
+CONSIDERING A RESEARCH DEGREE?
+PROJECT MANAGEMENT
+DOING YOUR RESEARCH 
+WRITING UP
+GETTING STARTED
+JOURNEY MAP</text>
+		</slide>
+		<slide index="5" title="" titleNormalized="" src="slide6.swf" size="17221" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Master's Degree
+According to Stellenbosch University regulations, the minimum period for getting a Master's degree after a Bachelor's degree is 2 years and after to an Honours degree, it is 1 year. 
+Most Master's students complete their degree in 2 years. 
+
+Doctorate
+The minimum period for a PhD is 2 years. Maximum periods allowed for completion vary and are dependent on progress, but it is unlikely that you will be allowed to continue after 5 years without substantial progress. 
+There is a general expectation that you should finish in 3 years, but the average duration for a PhD countrywide, is 4 to 6 years. 
+Considering a Research Degree at SU?
+How long will it take?
+TIP
+Do the math!
+Notional hours
+A PhD degree counts 360 credits and a Master’s degree 180 credits. Credits are meant to reflect the number of hours it should take to achieve the outcomes of the course. Every credit represents 10 hours of learning. So, a PhD amounts to 3600 notional hours. If you work 3 hours a day, a PhD will take you 3600 ÷ 3 = 1200 days, i.e. 3 years and 3½ months. 
+Close
+TIP
+How long will it take?
+How much will it cost?
+Do I have what it takes?
+Applying &amp; Registering
+CONSIDERING A RESEARCH DEGREE?
+PROJECT MANAGEMENT
+DOING YOUR RESEARCH 
+WRITING UP
+GETTING STARTED
+JOURNEY MAP</text>
+		</slide>
+		<slide index="6" title="" titleNormalized="" src="slide7.swf" size="11812" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>How long will it take?
+How much will it cost?
+Do I have what it takes?
+Applying &amp; Registering
+Considering a Research Degree at SU?
+University Fees for SU South African students
+
+Click here for details of SU postgraduate fees.
+Note: In most faculties, the bulk of the fees are paid in the first two years, after which continuation will cost you about R10 620 per annum. In other faculties, the cost is spread evenly over two to four years. 
+ 
+2. Cost of Research (Click to expand)
+
+3. Cost of Living (Click to expand)
+
+
+
+How much will it cost?
+CONSIDERING A RESEARCH DEGREE?
+PROJECT MANAGEMENT
+DOING YOUR RESEARCH 
+WRITING UP
+GETTING STARTED
+JOURNEY MAP</text>
+		</slide>
+		<slide index="7" title="" titleNormalized="" src="slide8.swf" size="12832" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Do I have what it takes?
+Applying &amp; Registering
+How long will it take?
+How much will it cost?
+Considering a Research Degree at SU?
+1. University Fees (Click to expand)
+ 
+2. Cost of Research 
+In addition to the tuition fees, above, you will need money for your actual research.  Depending on the type of research you are doing, this could include photocopying and printing, laboratory costs, fieldwork expenses, consumables and travelling costs. Some departments make these available, but do not just assume this. Find out! It is always a good idea to work out a budget for your research project anyway, whether you end up paying for it personally or not. Most research proposals require a budget, as do grant funding applications, so it is a good skill to learn. Many postgraduate students underestimate the cost of research or do not realise that money to cover research costs is not always freely available from the university. 
+
+3. Cost of Living (Click to expand)
+
+
+
+How much will it cost?
+CONSIDERING A RESEARCH DEGREE?
+PROJECT MANAGEMENT
+DOING YOUR RESEARCH 
+WRITING UP
+GETTING STARTED
+JOURNEY MAP</text>
+		</slide>
+		<slide index="8" title="" titleNormalized="" src="slide9.swf" size="12175" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Do I have what it takes?
+Applying &amp; Registering
+How long will it take?
+How much will it cost?
+Considering a Research Degree at SU?
+1. University Fees (Click to expand)
+ 
+2. Cost of Research (Click to expand)
+
+3. Cost of Living
+
+Studying full time could save you costs in terms of annual registration fee because you are likely to complete in a much shorter time. However, it also means you have to calculate your potential loss of earnings and find other funding to cover your living expenses, which could amount to R100 000+ a year. 
+
+See the SU guide for calculating a provisional quotation of fees and living expenses here.
+
+
+
+How much will it cost?
+CONSIDERING A RESEARCH DEGREE?
+PROJECT MANAGEMENT
+DOING YOUR RESEARCH 
+WRITING UP
+GETTING STARTED
+JOURNEY MAP</text>
+		</slide>
+		<slide index="9" title="" titleNormalized="" src="slide10.swf" size="13597" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>How much will it cost?
+Do I have what it takes?
+Applying &amp; Registering
+How long will it take?
+Considering a Research Degree at SU?
+1. Do I have the ability to succeed?
+Postgraduate students normally fail because they never hand in a dissertation, not because they handing one in that fails! This says something about the importance of managing the project, rather than about the intellectual difficulty of the degree. By conferring a Master's or PhD degree, a university confirms that you have the ability to do independent research, in reasonable time and report on it in a well structured way. The good news is that you will develop the skills to do this during your studies, provided you understand that they are normally not taught during a postgraduate degree: you are expected to acquire them. As a postgraduate student, you are in charge of your own development just as you are in charge of the entire research project. Click on the tip below.
+
+
+2. Do I have the necessary support? (Click to expand)
+
+3. Do I have the motivation? (Click to expand)
+
+Do I have what it takes?
+ How do I develop my research skills?
+TIP
+CONSIDERING A RESEARCH DEGREE?
+PROJECT MANAGEMENT
+DOING YOUR RESEARCH 
+WRITING UP
+GETTING STARTED
+JOURNEY MAP</text>
+		</slide>
+		<slide index="10" title="" titleNormalized="" src="slide11.swf" size="19798" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>How much will it cost?
+Applying &amp; Registering
+Do I have what it takes?
+How long will it take?
+Considering a Research Degree?
+1. Do I have the ability to succeed?
+Postgraduate students normally fail because they never hand in a dissertation , rather than handing one in that fails. This says something about the importance of managing the project, rather than about the intellectual difficulty of the degree. By conferring a Master's or PhD degree, a university confirms that you have the ability to do independent research, in reasonable time and report on it in a well structured way. The good news is that you will develop the skills to do this during your studies, provided you understand that they are normally not taught during a postgraduate degree: you are expected to acquire them. As a postgraduate student, you are in charge of your own development just as you are in charge of the entire research project. 
+
+
+
+2. Do I have the necessary support? (Click to expand)
+
+3. Do I have the motivation? (Click to expand)
+
+Do I have what it takes?
+How do I develop my research skills?
+TIP
+Developing your skills
+Research at postgraduate level is a bit like an apprenticeship: you learn by doing your work and asking for feedback from your environment – your supervisors, peers, senior students, support staff. This kind of development is self-driven. You need to identify your needs and ask for help, feedback and support. SU offers many support services for postgraduate students. These services are not there to teach you research skills, but rather to help YOU to engage with your research environment, where your main development should take place.
+ 
+Click here for a list of SU postgraduate support services
+Close
+TIP
+CONSIDERING A RESEARCH DEGREE?
+PROJECT MANAGEMENT
+DOING YOUR RESEARCH 
+WRITING UP
+GETTING STARTED
+JOURNEY MAP</text>
+		</slide>
+		<slide index="11" title="" titleNormalized="" src="slide12.swf" size="13237" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>How much will it cost?
+Applying &amp; Registering
+Do I have what it takes?
+How long will it take?
+Considering a Research Degree at SU?
+1. Do I have the ability to succeed? (Click to expand)
+
+2. Do I have the necessary support?
+Getting a postgraduate degree is proof that you are able to work independently. This can sometimes be a lonely journey. As manager of your postgraduate project, you can do something about it by organising and managing the support you need. Here are some key sources of support:
+
+
+
+
+
+3. Do I have the motivation? (Click to expand)
+
+Do I have what it takes?
+TIP
+University support
+TIP
+Your supervisor
+TIP
+Family, friends and employers
+CONSIDERING A RESEARCH DEGREE?
+PROJECT MANAGEMENT
+DOING YOUR RESEARCH 
+WRITING UP
+GETTING STARTED
+JOURNEY MAP</text>
+		</slide>
+		<slide index="12" title="" titleNormalized="" src="slide13.swf" size="17451" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>How much will it cost?
+Applying &amp; Registering
+Do I have what it takes?
+How long will it take?
+Considering a Research Degree?
+1. Do I have the ability to succeed? (Click to expand)
+
+2. Do I have the necessary support?
+Getting a postgraduate degree is proof that you are able to work independently. This can sometimes be a lonely journey. As manager of your postgraduate project, you can do something about it by organising and managing the support you need. Here are some key sources of support:
+
+
+
+
+3. Do I have the motivation? (Click to expand)
+
+Do I have what it takes?
+TIP
+University support
+TIP
+Your supervisor
+TIP
+Family, friends and employers
+Family, friends and employer
+Your family, friends and employer will mostly need to give you the time and space to conduct your research. They might also be financially supporting you while you are studying, or helping in other ways such as taking a larger share of family and household responsibility. Respect this support network by setting a realistic timeline from the beginning of your project, communicating your time requirements and deadlines to them regularly and most importantly, sticking to your timeline.
+Close
+TIP
+CONSIDERING A RESEARCH DEGREE?
+PROJECT MANAGEMENT
+DOING YOUR RESEARCH 
+WRITING UP
+GETTING STARTED
+JOURNEY MAP</text>
+		</slide>
+		<slide index="13" title="" titleNormalized="" src="slide14.swf" size="17705" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>How much will it cost?
+Applying &amp; Registering
+Do I have what it takes?
+How long will it take?
+Considering a Research Degree?
+1. Do I have the ability to succeed? (Click to expand)
+
+2. Do I have the necessary support?
+Getting a postgraduate degree is proof that you are able to work independently. This can sometimes be a lonely journey. As manager of your postgraduate project, you can do something about it by organising and managing the support you need. Here are some key sources of support:
+
+
+
+
+3. Do I have the motivation? (Click to expand)
+
+Do I have what it takes?
+TIP
+University support
+TIP
+Your supervisor
+TIP
+Family, friends and employers
+Your supervisor
+Your research supervisor is an invaluable support and can have a huge impact on the success of your research degree. It is worth spending time carefully choosing a supervisor (if this is an option) and considering how you will manage this relationship. This will be covered in more detail in the Getting Started Section. Remember a supervisor cannot be everything to everyone; understand why you chose this supervisor, what they are good at and find other people to assist you in aspects in which your supervisor is less strong.
+Close
+TIP
+CONSIDERING A RESEARCH DEGREE?
+PROJECT MANAGEMENT
+DOING YOUR RESEARCH 
+WRITING UP
+GETTING STARTED
+JOURNEY MAP</text>
+		</slide>
+		<slide index="14" title="" titleNormalized="" src="slide15.swf" size="17602" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>How much will it cost?
+Applying &amp; Registering
+Do I have what it takes?
+How long will it take?
+Considering a Research Degree?
+1. Do I have the ability to succeed? (Click to expand)
+
+2. Do I have the necessary support?
+Getting a postgraduate degree is proof that you are able to work independently. This can sometimes be a lonely journey. As manager of your postgraduate project, you can do something about it by organising and managing the support you need. Here are some key sources of support:
+
+
+
+
+3. Do I have the motivation? (Click to expand)
+
+Do I have what it takes?
+TIP
+University support
+TIP
+Your supervisor
+TIP
+Family, friends and employers
+University support
+Universities are well resourced research environments and Stellenbosch University has a host of resources to support postgraduate students. Some of the key support services to look out for are:
+your faculty librarian
+the Writing Lab
+Centre for Student Counselling 
+Division for Research Development 
+Postgraduate Skills Development 
+Postgraduate Funding office 
+statisticians 
+
+Click here for a list of SU postgraduate support services
+
+Close
+TIP
+CONSIDERING A RESEARCH DEGREE?
+PROJECT MANAGEMENT
+DOING YOUR RESEARCH 
+WRITING UP
+GETTING STARTED
+JOURNEY MAP</text>
+		</slide>
+		<slide index="15" title="" titleNormalized="" src="slide16.swf" size="13009" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>How much will it cost?
+Applying &amp; Registering
+Do I have what it takes?
+How long will it take?
+Considering a Research Degree at SU?
+1. Do I have the ability to succeed? (Click to expand)
+
+2. Do I have the necessary support? (Click to expand)
+
+3. Do I have the motivation?
+Motivations are very personal. Your own motivation might be a mix of extrinsic motivators, such as status or better career prospects and intrinsic motivators, such as acquiring new knowledge in a particular field (Mouton, 2013). Whatever your motivation, remember that completing a postgraduate degree is one particular way in which to achieve these ends. There are many other ways of learning more about a subject, getting recognised and achieving status. Following the postgraduate route to these ends means you will have to do research, independently. If research and scholarship itself motivates you, you are probably on the right track. Try to put your motivations into words. Will they be enough to see you through many late nights and social sacrifices? Will they get you to stick to your timeline despite other demands?
+Do I have what it takes?
+CONSIDERING A RESEARCH DEGREE?
+PROJECT MANAGEMENT
+DOING YOUR RESEARCH 
+WRITING UP
+GETTING STARTED
+JOURNEY MAP</text>
+		</slide>
+		<slide index="16" title="" titleNormalized="" src="slide17.swf" size="12557" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>How long will it take?
+How much will it cost?
+Do I have what it takes?
+Applying &amp; Registering
+Considering a Research Degree at SU?
+Before you apply
+
+Unlike an undergraduate degree, the process does NOT start with filling in the application form! Because so much of research development relies on forming relationships and working alongside people, you need to understand who the people are you are going to work with, what the environment is going to be like and what its research focus is. 
+
+In short, before you fill in an application form, you should have followed these steps: 
+
+
+A valuable site to explore in order to identify areas of research expertise at SU is the Knowledge Directory (see step 2 in tip above).
+
+2. Formal application (Click to expand)
+
+Applying &amp; Registering
+TIP
+CONSIDERING A RESEARCH DEGREE?
+PROJECT MANAGEMENT
+DOING YOUR RESEARCH 
+WRITING UP
+GETTING STARTED
+JOURNEY MAP
+8 Steps before applying
+</text>
+		</slide>
+		<slide index="17" title="" titleNormalized="" src="slide18.swf" size="16725" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>How much will it cost?
+Do I have what it takes?
+How long will it take?
+Applying &amp; Registering
+Considering a Research Degree?
+1. Before you apply
+Unlike an undergraduate degree, the process does NOT start with filling in the application form! Because so much of research development relies on forming relationships and working alongside people, you need to understand who the people are you are going to work with, what the environment is going to be like and what its research focus is. 
+
+In short, before you fill in an application form, you should have followed these steps 
+
+
+2. Formal application (Click to expand)
+
+Applying &amp; Registering
+TIP
+8 Steps before applying
+Close
+TIP
+Consider your topic and motivation.
+
+Explore departments/faculties/
+supervisors who do work in line with your area of interest.
+
+Do some background research about the work of people identified in step 2.
+
+Make initial contact with potential supervisors or course convenors, explaining your interest. Send an email, or where possible make an appointment. 
+
+Provide them with a summary of who you are (also showing why you are interested in them in particular). See this phase as an exploration.
+
+Decide on a supervisor based on the various interactions you have had and indicate your wishes to the potential supervisor.
+If they can take you on, then find out about the official application processes and registration procedures at their institution., asking your new supervisor for assistance.
+Apply and register according to the processes of the academic department and institution.
+1
+2
+3
+4
+5
+6
+7
+8
+CONSIDERING A RESEARCH DEGREE?
+PROJECT MANAGEMENT
+DOING YOUR RESEARCH 
+WRITING UP
+GETTING STARTED
+JOURNEY MAP</text>
+		</slide>
+		<slide index="18" title="" titleNormalized="" src="slide19.swf" size="13252" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>How much will it cost?
+Do I have what it takes?
+How long will it take?
+Applying &amp; Registering
+Considering a Research Degree at SU?
+Applying &amp; Registering
+1. Before you apply (Click to expand)
+
+2. Formal application: Master’s
+
+Current students (e.g. those in their final year of their previous degree) fill out a simple form which can be obtained from the relevant faculty administrator. These forms are sent to the academic department, who evaluates the student's application and accepts the student or not. 
+
+Prospective students (e.g. new to Stellenbosch University, or returning to the university after a year or so) must complete the online e-application process. Information about the process is available at www.sun.ac.za/pgstudies.
+
+Please remember: in both cases you should ideally already have discussed your plans with someone in the department before they receive the application form. 
+
+Registration
+Once your application has been accepted, your registration normally takes place at the start of your academic year.
+
+3. Formal application: Doctoral (Click to expand)
+CONSIDERING A RESEARCH DEGREE?
+PROJECT MANAGEMENT
+DOING YOUR RESEARCH 
+WRITING UP
+GETTING STARTED
+JOURNEY MAP</text>
+		</slide>
+		<slide index="19" title="" titleNormalized="" src="slide20.swf" size="13651" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>How much will it cost?
+Do I have what it takes?
+How long will it take?
+Applying &amp; Registering
+Considering a Research Degree at SU?
+Applying &amp; Registering
+1. Before you apply (Click to expand)
+
+2. Formal application: Master’s (Click to expand)
+
+3. Formal application: Doctoral 
+
+The process leading up to registration for doctoral candidates differs quite a bit from that for Master’s degree students. Faculties also follow different regulations and you should familiarise yourself with the processes, regulations and dates applicable to the specific department and faculty. In general, departments follow one of two models related to when a prospective student is allowed to register: In some instances, prospective students are required to research and formulate a complete research proposal before they are allowed to register, whereas other faculties allow students to register and then formulate their research proposal, already under the supervision of an academic in the department.
+
+
+
+Please remember: in both cases you should ideally already have discussed your plans with someone in the department before they receive the application form. 
+
+TIP
+See graphic
+CONSIDERING A RESEARCH DEGREE?
+PROJECT MANAGEMENT
+DOING YOUR RESEARCH 
+WRITING UP
+GETTING STARTED
+JOURNEY MAP</text>
+		</slide>
+		<slide index="20" title="" titleNormalized="" src="slide21.swf" size="32803" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>How much will it cost?
+Do I have what it takes?
+How long will it take?
+Applying &amp; Registering
+Considering a Research Degree?
+Applying &amp; Registering
+1. Before you apply (Click to expand)
+
+2. Formal application: Master’s (Click to expand)
+
+3. Formal application: Doctoral 
+The process leading up to registration for doctoral candidates differs quite a bit from that for Master’s degree students. Various faculties also follow different regulations and you should familiarise yourself with the processes, regulations and dates applicable to the department and faculty. In general, departments follow one of two “models”, related to when a prospective student is allowed to register: In some instances, prospective students are required to research and formulate a complete research proposal before they are allowed to register, whereas other faculties allow students to register and then formulate their research proposal, whilst already under the supervision of an academic in the department.
+
+
+Please remember: in both cases you should ideally already have discussed your plans with someone in the department before they receive the application form. 
+
+TIP
+See graphic
+Doctoral registration – 2 models
+Please remember: in both cases you should ideally already have discussed your plans with someone in the department before they receive the application form. 
+
+Model 1
+
+
+
+
+
+
+
+Model 2: 
+Close
+TIP
+CONSIDERING A RESEARCH DEGREE?
+PROJECT MANAGEMENT
+DOING YOUR RESEARCH 
+WRITING UP
+GETTING STARTED
+JOURNEY MAP
+From Mouton (2001)</text>
+		</slide>
+		<slide index="21" title="" titleNormalized="" src="slide22.swf" size="28280" advanceOnTime="0" framesCount="37" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="36" playTime="1.5000000" pauseTime="3.5000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Writing a proposal
+Choosing a supervisor
+Choosing a topic
+Getting started
+CONSIDERING A RESEARCH DEGREE?
+PROJECT MANAGEMENT
+DOING YOUR RESEARCH 
+WRITING UP
+GETTING STARTED
+JOURNEY MAP</text>
+		</slide>
+		<slide index="22" title="" titleNormalized="" src="slide23.swf" size="14347" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Writing a proposal
+Choosing a supervisor
+Choosing a topic
+Getting started
+Choosing a topic
+In the initial stages of sourcing a topic, read as much you can in order to expose yourself to as many potential topics as possible. The process is simple, yet there are no shortcuts: read, read, read and read!
+
+
+Find out what research is being conducted in your field of study. The Library is an essential resource, as is your faculty librarian, who can tell you about the relevant databases and recent publications in your field, including the Sabinet Journals which focuses on research originating from or pertaining to Africa. 
+
+Another good starting point is to look at existing theses or dissertations on your topic. Viewing databases listings of current or completed research projects can avoid duplications in research and create networks and collaborations between researchers. 
+
+
+Once a topic has been found, the process of narrowing it down, which in turn leads to the formulation of a research question, begins. This is further explained in the section Conducting your research – from topic to research question. 
+TIP
+Collections of theses and dissertations
+TIP
+Questions to ask when choosing a research topic
+CONSIDERING A RESEARCH DEGREE?
+PROJECT MANAGEMENT
+DOING YOUR RESEARCH 
+WRITING UP
+GETTING STARTED
+JOURNEY MAP</text>
+		</slide>
+		<slide index="23" title="" titleNormalized="" src="slide24.swf" size="18168" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Writing a proposal
+Choosing a supervisor
+Choosing a topic
+Getting started
+Choosing a topic
+In the initial stages of trying to find a topic, read as much you can in order to expose yourself to as many potential topics as possible. The process is simple, yet there are no shortcuts: read, read, read and read!
+
+
+Find out what research is being conducted in your field of study. The library is an essential resource, as is your faculty librarian, who can tell you about the relevant databases and recent publications in your field, including the Sabinet Journals which focuses on research originating from or pertaining to Africa. 
+
+Another good starting point is to look at existing theses or dissertations around your topic. Databases listing current or completed research projects can avoid duplications in research and create networks and collaborations between researchers. 
+
+
+Once a topic has been found, the process of narrowing it down, which in turn leads to the formulation of a research question, begins. This is further explained in the section “Conducting your research – from topic to research question”. 
+TIP
+Collections of theses and dissertations
+TIP
+Questions to ask when choosing a research topic
+Questions to ask when choosing a topic
+Is the topic in line with your career objectives? 
+Will the topic keep you academically stimulated for a number of years? 
+Is the literature and data needed to conduct your research available or accessible? 
+Is the topic researchable to such an extent that you will be able to produce a good thesis on it? 
+Do you possess the skills, or are you able to develop the skills necessary to research this topic? 
+Can you find a good supervisor who is willing to guide you in this process?
+
+TIP
+Close
+CONSIDERING A RESEARCH DEGREE?
+PROJECT MANAGEMENT
+DOING YOUR RESEARCH 
+WRITING UP
+GETTING STARTED
+JOURNEY MAP</text>
+		</slide>
+		<slide index="24" title="" titleNormalized="" src="slide25.swf" size="21471" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Writing a proposal
+Choosing a supervisor
+Choosing a topic
+Getting started
+Choosing a topic
+In the initial stages of trying to find a topic, read as much you can in order to expose yourself to as many potential topics as possible. The process is simple, yet there are no shortcuts: read, read, read and read!
+
+
+Find out what research is being conducted in your field of study. The library is an essential resource, as is your faculty librarian, who can tell you about the relevant databases and recent publications in your field, including the Sabinet Journals which focuses on research originating from or pertaining to Africa. 
+
+Another good starting point is to look at existing theses or dissertations around your topic. Databases listing current or completed research projects can avoid duplications in research and create networks and collaborations between researchers. 
+
+
+Once a topic has been found, the process of narrowing it down, which in turn leads to the formulation of a research question, begins. This is further explained in the section “Conducting your research – from topic to research question”. 
+TIP
+Collections of theses and dissertations
+TIP
+Questions to ask when choosing a research topic
+Collections of Theses and Dissertations
+South African Collections
+SUNScholar Research conducted at Stellenbosch University
+NRF Nexus South African research. 
+Alternative link: http://nexus.nrf.ac.za/ 
+National ETD Portal (South Africa) South African theses and dissertations.
+IR Space A search platform that searches across South African institutional repositories (Use the search bar lower down on the page).
+International Collections
+NDLTD 
+ProQuest Dissertations and Theses
+TIP
+Close
+CONSIDERING A RESEARCH DEGREE?
+PROJECT MANAGEMENT
+DOING YOUR RESEARCH 
+WRITING UP
+GETTING STARTED
+JOURNEY MAP</text>
+		</slide>
+		<slide index="25" title="" titleNormalized="" src="slide26.swf" size="13128" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Writing a proposal
+Choosing a supervisor
+Choosing a topic
+Getting started
+Choosing a supervisor
+Understanding how your supervisor will assist you in your research process may help you to choose someone who you feel confident working with. The roles and responsibilities of the supervisor will differ according to three research or study phases (Helm &amp; van der Westhuisen, 1999). Consider these three phases:
+
+The design phase (Click to expand)
+
+The work phase (Click to expand)
+
+The editing phase (Click to expand)
+
+Consult the following documents to develop a healthy supervisor relationship:
+
+A Memorandum of Understanding – this is an official SU requirement, i.e. it is compulsory to have an MoU between all supervisors and their postgraduate students! The Postgraduate Office has designed a template of an MoU as guideline should your department not have a comprehensive one. Many problems in supervision come from misunderstandings regarding expectations. – having a good MoU in place helps to alleviate unnecessary misunderstandings and stress.
+
+SU Supervisor Student Code of Conduct as printed in the SU Calendar/ Yearbook General Part 1 pp. 171 – 173, paragraph/point 7. This is an official record that states the university’s general expectation regarding the supervisor relationship. 
+CONSIDERING A RESEARCH DEGREE?
+PROJECT MANAGEMENT
+DOING YOUR RESEARCH 
+WRITING UP
+GETTING STARTED
+JOURNEY MAP</text>
+		</slide>
+		<slide index="26" title="" titleNormalized="" src="slide27.swf" size="17718" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Writing a proposal
+Choosing a supervisor
+Choosing a topic
+Getting started
+Choosing a supervisor
+Understanding how your supervisor will assist you in your research process may help you to choose someone who you feel confident about working with. According to Helm and van der Westhuisen (1999), the responsibilities and roles of the supervisor will differ according to three research or study phases. Consider the phases delineated below when making your choice:
+
+The design phase (Click to expand)
+
+The work phase (Click to expand)
+
+The editing phase (Click to expand)
+
+The following documents are also useful to look at when thinking about the kind of supervisor relationship that would work for you:
+Memorandum of Understanding (Click to view) – this is an unofficial document, i.e. not compulsory in any sense, but a useful template for a discussion with your supervisor to clarify mutual expectations of the relationship. Many problems in supervision comes from a misunderstanding regarding the other’s expectations.
+SU Supervisor Student Code of Conduct (Click to view) as printed in Yearbook 1 (General Policies and Rules) 2017 This is a more official document that states the university’s general expectation regarding the supervisor relationship. 
+The Design phase
+Here the student has to learn to be creative and systematic in his/her research. The supervisor`s task in this phase is to help the student to choose a research topic. Moses (1985) stresses the importance of this role and even includes that the supervisor should ensure that the topic is suitable for research, that it will bring new insights and that it could be completed within a reasonable period of time.
+Close
+TIP
+CONSIDERING A RESEARCH DEGREE?
+PROJECT MANAGEMENT
+DOING YOUR RESEARCH 
+WRITING UP
+GETTING STARTED
+JOURNEY MAP</text>
+		</slide>
+		<slide index="27" title="" titleNormalized="" src="slide28.swf" size="17352" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Writing a proposal
+Choosing a supervisor
+Choosing a topic
+Getting started
+Choosing a supervisor
+Understanding how your supervisor will assist you in your research process may help you to choose someone who you feel confident about working with. According to Helm and van der Westhuisen (1999), the responsibilities and roles of the supervisor will differ according to three research or study phases. Consider the phases delineated below when making your choice:
+
+The design phase (Click to expand)
+
+The work phase (Click to expand)
+
+The editing phase (Click to expand)
+
+The following documents are also useful to look at when thinking about the kind of supervisor relationship that would work for you:
+Memorandum of Understanding (Click to view) – this is an unofficial document, i.e. not compulsory in any sense, but a useful template for a discussion with your supervisor to clarify mutual expectations of the relationship. Many problems in supervision comes from a misunderstanding regarding the other’s expectations.
+SU Supervisor Student Code of Conduct (Click to view) as printed in Yearbook 1 (General Policies and Rules) 2017 This is a more official document that states the university’s general expectation regarding the supervisor relationship. 
+The Work phase
+The student has to learn to undertake the study in a scientific manner. According to Moses (1985), the supervisor should help the student to find the most effective way to gather research, analyse the results, identify certain problems and come to certain recommendations. 
+
+
+
+
+Close
+TIP
+CONSIDERING A RESEARCH DEGREE?
+PROJECT MANAGEMENT
+DOING YOUR RESEARCH 
+WRITING UP
+GETTING STARTED
+JOURNEY MAP</text>
+		</slide>
+		<slide index="28" title="" titleNormalized="" src="slide29.swf" size="17861" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Writing a proposal
+Choosing a supervisor
+Choosing a topic
+Getting started
+Choosing a supervisor
+Understanding how your supervisor will assist you in your research process may help you to choose someone who you feel confident about working with. According to Helm and van der Westhuisen (1999), the responsibilities and roles of the supervisor will differ according to three research or study phases. Consider the phases delineated below when making your choice:
+
+The design phase (Click to expand)
+
+The work phase (Click to expand)
+
+The editing phase (Click to expand)
+
+The following documents are also useful to look at when thinking about the kind of supervisor relationship that would work for you:
+Memorandum of Understanding (Click to view) – this is an unofficial document, i.e. not compulsory in any sense, but a useful template for a discussion with your supervisor to clarify mutual expectations of the relationship. Many problems in supervision comes from a misunderstanding regarding the other’s expectations.
+SU Supervisor Student Code of Conduct (Click to view) as printed in Yearbook 1 (General Policies and Rules) 2017 This is a more official document that states the university’s general expectation regarding the supervisor relationship. 
+The Editing phase
+The student receives sufficient guidance in writing a scientific report. The supervisor`s responsibility in this phase is to know what the different criteria entail regarding the research report. During the first meetings, the structure and the final text as well as dates for presenting certain chapters should be discussed. In most cases this is the phase where the student and supervisor lose contact. However, for a student to stay motivated, it is important that the guidance in this phase is effective. 
+Close
+TIP
+CONSIDERING A RESEARCH DEGREE?
+PROJECT MANAGEMENT
+DOING YOUR RESEARCH 
+WRITING UP
+GETTING STARTED
+JOURNEY MAP</text>
+		</slide>
+		<slide index="29" title="" titleNormalized="" src="slide30.swf" size="13444" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Choosing a topic
+In postgraduate education, your research proposal or protocol marks a major milestone within the actual research journey. It is usually developed with your supervisor in the first phase of your studies and is then formally accepted by the Higher Degrees Committee of your faculty. The formal research proposal will be covered in more detail in the section related to Conducting your Research. 
+A preliminary proposal 
+However, if you are planning to do a research degree (i.e. Master’s degree by thesis or a PhD), you will probably also be expected to include a preliminary proposal as part of your application or even before then, when you are in the enquiry phase. This is a much shorter document and is intended to show your potential supervisor / intended university department/ research centre:
+what your broad research topic is
+what the relevance of such a study might be
+that you have read some of the relevant literature and that you can situate your research interest / preliminary research question within that literature
+that you can communicate your ideas, even if they are preliminary, in writing
+Each Faculty or Department will have their own requirements for what is expected, and your should ask if there are specific requirements, but it is worth developing your ideas along these lines before you contact the university/department/ supervisor of your choice. 
+Getting started
+Writing a proposal
+Choosing a supervisor
+Writing a proposal
+CONSIDERING A RESEARCH DEGREE?
+PROJECT MANAGEMENT
+DOING YOUR RESEARCH 
+WRITING UP
+GETTING STARTED
+JOURNEY MAP</text>
+		</slide>
+		<slide index="30" title="" titleNormalized="" src="slide31.swf" size="35799" advanceOnTime="0" framesCount="61" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="60" playTime="2.5000000" pauseTime="2.5000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Project Management
+Get feedback
+Find and manage resources
+Manage your time
+Create smaller deliverables
+Formulate key outputs
+CONSIDERING A RESEARCH DEGREE?
+PROJECT MANAGEMENT
+DOING YOUR RESEARCH 
+WRITING UP
+GETTING STARTED
+JOURNEY MAP</text>
+		</slide>
+		<slide index="31" title="" titleNormalized="" src="slide32.swf" size="14693" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Formulate key outputs
+Manage your time
+Find and manage resources
+Get feedback
+Create smaller deliverables
+Why is project management important?
+
+Why do you think it is that most postgraduates have no problem in completing and passing the structured or taught parts of their courses but falter in the dissertation phase? If you think about it, you will see that a taught course follows all of the project management steps we list on the left. In the case of a taught course , the course convenor or lecturer would be the project manager.  At postgraduate level, you are no longer a consumer of knowledge; you are expected to produce knowledge and to take charge of your own research. This means that the role of project manager has shifted to you and you have to follow each of the steps yourself. in effect, you will structure your own "course". No more waiting for someone to tell you what to do. Rather plan what you need to do, check with your supervisor, make changes to your plan and then of course, do it!
+
+See also ‘Balancing Work and Thesis’
+
+Identify the end goal (Click to expand)
+
+Doctoral graduate attributes (Click to expand)
+
+A holistic understanding of a research project (Click to expand)
+Project Management
+Formulate key outputs
+CONSIDERING A RESEARCH DEGREE?
+PROJECT MANAGEMENT
+DOING YOUR RESEARCH 
+WRITING UP
+GETTING STARTED
+JOURNEY MAP</text>
+		</slide>
+		<slide index="32" title="" titleNormalized="" src="slide33.swf" size="13033" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Formulate key outputs
+Manage your time
+Find and manage resources
+Get feedback
+Create smaller deliverables
+Why is project management important? (Click to expand)
+
+Identify the end goal
+
+Being in charge means knowing what you are trying to achieve. As mentioned on this site, the university will award you a postgraduate degree if you have done a piece of independent scientific research within a reasonable amount of time and reported on it in a well-structured way. The degree of complexity, independence and level of specialisation will differ between Master's and Doctorate degrees, but the basic requirements are the same. The physical output that you need to produce to show that you have met this requirement is the thesis or dissertation. 
+
+Doctoral graduate attributes (Click to expand)
+
+A holistic understanding of a research project (Click to expand)
+Project Management
+Formulate key outputs
+CONSIDERING A RESEARCH DEGREE?
+PROJECT MANAGEMENT
+DOING YOUR RESEARCH 
+WRITING UP
+GETTING STARTED
+JOURNEY MAP</text>
+		</slide>
+		<slide index="33" title="" titleNormalized="" src="slide34.swf" size="13641" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Formulate key outputs
+Manage your time
+Find and manage resources
+Get feedback
+Create smaller deliverables
+Why is project management important? (Click to expand)
+
+Identify the end goal (Click to expand)
+
+Doctoral graduate attributes
+
+In 2018, South Africa’s Council for Higher Education (CHE) released a Qualification Standard for Doctoral Degrees. The Standard prescribes a set of nine graduate attributes - five knowledge attributes and four skills attributes - that doctoral graduates must master to meet the degree requirements. The graduate attributes will be assessed within the context of the purpose of the qualification. The purpose and level of the qualification will have been achieved when all the attributes are evident. It is thus important for all doctoral candidates to ensure that they keep these attributes in mind and consider how they will develop these throughout their doctoral journey. Click here to view the nine doctoral graduate attributes.
+
+A holistic understanding of a research project (Click to expand)
+Project Management
+Formulate key outputs
+CONSIDERING A RESEARCH DEGREE?
+PROJECT MANAGEMENT
+DOING YOUR RESEARCH 
+WRITING UP
+GETTING STARTED
+JOURNEY MAP</text>
+		</slide>
+		<slide index="34" title="" titleNormalized="" src="slide35.swf" size="101843" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Formulate key outputs
+Manage your time
+Find and manage resources
+Get feedback
+Create smaller deliverables
+Why is project management important? (Click to expand)
+
+Identify the end goal (Click to expand)
+
+Doctoral graduate attributes
+
+In 2018, South Africa’s Council for Higher Education (CHE) released a Qualification Standard for Doctoral Degrees. The Standard prescribes a set of nine graduate attributes - five knowledge attributes and four skills attributes - that doctoral graduates must master to meet the degree requirements. The graduate attributes will be assessed within the context of the purpose of the qualification. The purpose and level of the qualification will have been achieved when all the attributes are evident. It is thus important for all doctoral candidates to ensure that they keep these attributes in mind and consider how they will develop these throughout their doctoral journey. Click here to view the attributes.
+
+A holistic understanding of a research project (Click to expand)
+Project Management
+Formulate key outputs
+CONSIDERING A RESEARCH DEGREE?
+PROJECT MANAGEMENT
+DOING YOUR RESEARCH 
+WRITING UP
+GETTING STARTED
+JOURNEY MAP
+
+
+				 Close</text>
+		</slide>
+		<slide index="35" title="" titleNormalized="" src="slide36.swf" size="17176" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Formulate key outputs
+Manage your time
+Find and manage resources
+Get feedback
+Create smaller deliverables
+Why is project management important? (Click to expand)
+Identify the end goal (Click to expand)
+Doctoral graduate attributes (Click to expand)
+
+A holistic understanding of a research project
+
+There are certain established and accepted ways in which you are expected to conduct your research and write your thesis or dissertation.  Because all research follows more or less this basic logic, there are also some typical or common tasks that make up the research project and will lead you to your end goal. 
+
+ Click here for the main steps in the research journey
+
+These steps may not all be applicable to you, or occur in the same order as is indicated here. Also, all these steps don’t take an equal amount of time and they can overlap considerably. For example, you may spend most of your time on data collection, writing up your findings and reading the literature as you go along. On the other hand in some fields, you might spend an entire year on your literature review before you start collecting data. However, the steps give you a holistic sense of what an entire research project might entail. Your next step is to create smaller measurable outputs for yourself, keeping your end goal in mind. 	
+ 	 Use our plan.it project management calendar to plot your timeline 
+Project Management
+Formulate key outputs
+TIP
+CONSIDERING A RESEARCH DEGREE?
+PROJECT MANAGEMENT
+DOING YOUR RESEARCH 
+WRITING UP
+GETTING STARTED
+JOURNEY MAP</text>
+		</slide>
+		<slide index="36" title="" titleNormalized="" src="slide37.swf" size="18976" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Formulate key outputs
+Manage your time
+Find and manage resources
+Get feedback
+Create smaller deliverables
+Why is project management important? (Click to expand)
+
+Identify the end goal (Click to expand)
+
+A holistic understanding of a research project
+There are certain established and accepted ways in which you are expected to conduct your research and write your dissertation.  Because all research follows more or less this basic logic, there are also some typical or common tasks that make up the research project and will lead you to your end goal. 
+
+ The main steps in the research journey
+
+These steps may not all be applicable to you, or occur in the same order as laid out here. Also, all these steps don’t take an equal amount of time and they can overlap considerably. You may spend most of your time on data collection for example, writing up your findings and reading the literature as you go along. IN Social Sciences on the other hand, you might spend an entire year on your literature review before you start thinking of collecting data. However, the steps give you a holistic sense of what an entire research project might entail. Your next step is to create smaller measurable outputs for yourself, keeping your end goal and this broader journey in mind. 
+Project Management
+Formulate key outputs
+TIP
+Overview of typical steps in research project
+Do preliminary research 
+
+Develop research question/hypothesis
+
+Create research design and methods
+
+Budget and resource planning
+
+Ethics approval if applicable (research involving humans/animals)
+
+Draw up proposal
+
+Literature review
+
+Data collection
+
+Analysis of data
+
+Describe findings
+
+Draw conclusions
+
+Report on study
+
+Publish
+TIP
+Close
+CONSIDERING A RESEARCH DEGREE?
+PROJECT MANAGEMENT
+DOING YOUR RESEARCH 
+WRITING UP
+GETTING STARTED
+JOURNEY MAP</text>
+		</slide>
+		<slide index="37" title="" titleNormalized="" src="slide38.swf" size="15273" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Create smaller deliverables
+Manage your time
+Find and manage resources
+Formulate key outputs
+Get feedback
+In a taught course, complex content and activities are broken into manageable tasks and assignments. This gives you focus (which makes you more productive) and keeps you from feeling overwhelmed. How can you build a similar structure and discipline into your research project?
+
+ Click here for a sample project plan
+
+Use the Sample Project Plan as a starting point. Now you need to do two things -break the steps down into smaller deliverables as far as possible, and write them as outputs rather than just activities. An output is something that you can measure and observe. It gives you focus because you will know when you are done and what you still need to do to complete it. 
+
+	 Click here for an example activity vs output 						
+You will probably already be able to fill in at least some more detailed outputs, but you will find that as you go along, you will be able to (and should) be more specific. It would be even better if you can agree with someone (either your supervisor or another accountability partner) that you will show them a specific output by a certain date.
+ 
+Project Management
+Create smaller deliverables
+TIP
+TIP
+CONSIDERING A RESEARCH DEGREE?
+PROJECT MANAGEMENT
+DOING YOUR RESEARCH 
+WRITING UP
+GETTING STARTED
+JOURNEY MAP</text>
+		</slide>
+		<slide index="38" title="" titleNormalized="" src="slide39.swf" size="18359" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Create smaller deliverables
+Manage your time
+Find and manage resources
+Formulate key outputs
+Get feedback
+In a taught course, complex content and activities are broken into manageable tasks and assignments. This gives you focus (which makes you more productive) and keeps you from feeling overwhelmed. How can you build a similar structure and discipline into your research project?
+
+ Sample Project Plan
+
+ Use the Sample Project Plan as a starting point. Now you need to do two things - break the steps down into smaller deliverables and as far as possible, write them as outputs rather than just activities. An output is something that you can measure and observe. It gives you focus because you will know when you are done and what you still need to do to complete it. Example activity vs output
+
+You will probably already be able to fill in at least some more detailed outputs, but you will find that as you go along, you will be able to (and should) be more specific. It would be even better if you can agree with someone (either your supervisor or another accountability partner) that you will show them a specific output by a certain date.
+ 
+Project Management
+Create smaller deliverables
+TIP
+TIP
+Example: activity vs output
+If you go to the library every day for 3 months to "Do detailed secondary research" how will you know when you have finished and whether you are making any progress?  Much better to go there on Monday with the explicit goal of coming away with  "a list of current thinkers or researchers in the field of X" or  "Notes on the work of Expert Y". The reason why the sample project plan does not have this level of detail and in some cases does not state outputs but rather activities, is because outputs are so context dependent. 
+Close
+TIP
+CONSIDERING A RESEARCH DEGREE?
+PROJECT MANAGEMENT
+DOING YOUR RESEARCH 
+WRITING UP
+GETTING STARTED
+JOURNEY MAP</text>
+		</slide>
+		<slide index="39" title="" titleNormalized="" src="slide40.swf" size="15662" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Manage your time
+Find and manage resources
+Formulate key outputs
+Create smaller deliverables
+Get feedback
+Create realistic deadlines for each of your outputs along the way and add these to your project plan. Consider the benefits of a taught course again - it is structured in such a way that the time is spread realistically across the various tasks and assignments - everything is not squeezed into the last 6 months.  Rather be conservative in setting deadlines, but then stick to them religiously. Take into account your particular strengths and weaknesses, and also your personal circumstances, whether you are part-time or full-time, etc. Use the average completion time for your degree as a guide. And of course, check with your supervisor whether you have allocated enough time to certain phases. 
+
+If you have broken your outputs into smaller units it will be much easier to use little gaps in your week to work on a task. That said, it is sometimes necessary that you plan for some blocks of uninterrupted time, especially for your literature review and your writing-up phase. It is also a good idea to overlap certain tasks, so that you have alternative tasks to work on if you get stuck in one area.  A good way to display your timeline is through a Gantt chart.  To create a Gantt chart, you can use Project Management Software (Microsoft Project offers a 60 day trial period). Another way to display your timeline and to manage your project is through our plan.it calendar. Find out more about this SU project management tool here.
+
+Project Management
+Manage your time
+CONSIDERING A RESEARCH DEGREE?
+PROJECT MANAGEMENT
+DOING YOUR RESEARCH 
+WRITING UP
+GETTING STARTED
+JOURNEY MAP</text>
+		</slide>
+		<slide index="40" title="" titleNormalized="" src="slide41.swf" size="11482" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Find and manage resources
+Any research requires money, information, people and computer hardware and software. Use your project plan to organise your resources in advance. You can ask for support, but as project manager it is up to you to do the asking.
+
+Money (Click to expand)
+Information (Click to expand)
+People (Click to expand)
+Computer hardware and software (Click to expand)
+ 
+Project Management
+Find and manage resources
+Formulate key outputs
+Create smaller deliverables
+Manage your time
+Get feedback
+CONSIDERING A RESEARCH DEGREE?
+PROJECT MANAGEMENT
+DOING YOUR RESEARCH 
+WRITING UP
+GETTING STARTED
+JOURNEY MAP</text>
+		</slide>
+		<slide index="41" title="" titleNormalized="" src="slide42.swf" size="13391" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Find and manage resources
+Any research requires money, information, people and computer hardware and software. Use your project plan to organise your resources in advance. You can ask for support, but as project manager it is up to you to do the asking.
+
+Money 
+Postgraduate studies carry two types of costs: 
+
+ Tuition, accommodation and books 
+
+ Cost of research, e.g. printing, laboratory and fieldwork costs, conferences
+
+It is easier to find funding for the first type than the second. Click on the tips above to find out more. Consider available funding when you make your decision on where and what to study. 
+
+ Other sources of funding
+
+Information (Click to expand)
+People (Click to expand)
+Computer hardware and software (Click to expand) 
+Project Management
+Find and manage resources
+Formulate key outputs
+Create smaller deliverables
+Manage your time
+Get feedback
+TIP
+TIP
+TIP
+CONSIDERING A RESEARCH DEGREE?
+PROJECT MANAGEMENT
+DOING YOUR RESEARCH 
+WRITING UP
+GETTING STARTED
+JOURNEY MAP</text>
+		</slide>
+		<slide index="42" title="" titleNormalized="" src="slide43.swf" size="17020" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Find and manage resources
+Any research requires money, information, people and computer hardware and software. Use your project plan to organise your resources in advance. You can ask for support, but as project manager it is up to you to do the asking.
+
+Money 
+Postgraduate studies carry two types of costs: 
+
+ Cost of tuition, accommodation and books 
+
+ Cost of research ,e.g. printing, laboratory and fieldwork costs, conferences
+
+It is easier to find funding for the first type than the second. Click on the tips above to find out more. 
+
+ Other sources of funding:
+
+ Information (Click to expand)
+People (Click to expand)
+Computer hardware and software (Click to expand) 
+Project Management
+Find and manage resources
+Formulate key outputs
+Create smaller deliverables
+Manage your time
+Get feedback
+TIP
+TIP
+TIP
+Cost of tuition, accommodation
+See SU 2021 fees here.
+
+Funding (for your university registration, living expenses and books) is normally called a bursary (as opposed to grants).
+
+Many bursaries explicitly exclude research costs, which is dealt with in the next tip.
+
+For a list of available bursaries contact the Postgraduate Funding office of the Postgraduate Office. Make sure to note the application deadlines, these are often well before the start of your intended study.
+Close
+TIP
+CONSIDERING A RESEARCH DEGREE?
+PROJECT MANAGEMENT
+DOING YOUR RESEARCH 
+WRITING UP
+GETTING STARTED
+JOURNEY MAP</text>
+		</slide>
+		<slide index="43" title="" titleNormalized="" src="slide44.swf" size="19841" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Find and manage resources
+Any research requires money, information, people and computer hardware and software. Use your project plan to organise your resources in advance. You can ask for support, but as project manager it is up to you to do the asking.
+
+Money 
+Postgraduate studies carry two types of costs: 
+
+ Cost of tuition, accommodation and books 
+
+ Cost of research ,e.g. printing, laboratory and fieldwork costs, conferences
+
+It is easier to find funding for the first type than the second. Click on the tips above to find out more. 
+
+ Other sources of funding:
+
+ Information (Click to expand)
+People (Click to expand)
+Computer hardware and software (Click to expand) 
+Project Management
+Find and manage resources
+Formulate key outputs
+Create smaller deliverables
+Manage your time
+Get feedback
+TIP
+TIP
+TIP
+Research costs
+Cost of research is normally covered by research grants (as opposed to bursaries which tend to only cover tuition).  
+
+There are very few research grants for which postgraduate students can apply directly.  Most research grants are given to rated scientists (those who already hold a PhD). If you cannot apply for the grant yourself, ask your supervisor if they could apply as project leader and allocate some money for your research as part of the project. Find out about research grant calls from the Division for Research Development. 
+
+Also note our Postgraduate Funding office will occasionally subsidise travel to an international conference, provided you are a full time postgraduate student and are presenting a paper. 
+Close
+TIP
+CONSIDERING A RESEARCH DEGREE?
+PROJECT MANAGEMENT
+DOING YOUR RESEARCH 
+WRITING UP
+GETTING STARTED
+JOURNEY MAP</text>
+		</slide>
+		<slide index="44" title="" titleNormalized="" src="slide45.swf" size="15995" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Find and manage resources
+Any research requires money, information, people and computer hardware and software. Use your project plan to organise your resources in advance. You can ask for support, but as project manager it is up to you to do the asking.
+
+Money 
+Postgraduate studies carry two types of costs: 
+
+ Cost of tuition, accommodation and books 
+
+ Cost of research ,e.g. printing, laboratory and fieldwork costs, conferences
+
+It is easier to find funding for the first type than the second. Click on the tips above to find out more. 
+
+ Other sources of funding:
+
+ Information (Click to expand)
+People (Click to expand)
+Computer hardware and software (Click to expand) 
+Project Management
+Find and manage resources
+Formulate key outputs
+Create smaller deliverables
+Manage your time
+Get feedback
+TIP
+TIP
+TIP
+Other sources of funding
+Some departments have small funds available for postgraduate research. Speak to your  supervisor.
+Your employer might agree to sponsor you, especially if the research benefits them.
+Depending on your field of study, you might be able to and be expected to pay for research expenses yourself.
+Consider available funding when you make your decision on where and what to study. 
+
+Close
+TIP
+CONSIDERING A RESEARCH DEGREE?
+PROJECT MANAGEMENT
+DOING YOUR RESEARCH 
+WRITING UP
+GETTING STARTED
+JOURNEY MAP</text>
+		</slide>
+		<slide index="45" title="" titleNormalized="" src="slide46.swf" size="12860" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Find and manage resources
+Any research requires money, information, people and computer hardware and software. Use your project plan to organise your resources in advance. You can ask for support, but as project manager it is up to you to do the asking.
+
+Money (Click to expand)
+
+Information 
+
+There are two types of research data: 
+
+ Secondary data 
+
+ Primary data
+
+
+People (Click to expand)
+Computer hardware and software (Click to expand)
+ 
+Project Management
+Find and manage resources
+Formulate key outputs
+Create smaller deliverables
+Manage your time
+Get feedback
+TIP
+TIP
+CONSIDERING A RESEARCH DEGREE?
+PROJECT MANAGEMENT
+DOING YOUR RESEARCH 
+WRITING UP
+GETTING STARTED
+JOURNEY MAP</text>
+		</slide>
+		<slide index="46" title="" titleNormalized="" src="slide47.swf" size="14997" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Find and manage resources
+Any research requires money, information, people and computer hardware and software. Use your project plan to organise your resources in advance. You can ask for support, but as project manager it is up to you to do the asking.
+
+Money (Click to expand)
+Information (Click to expand)
+There are two types of research data: 
+
+ Secondary data 
+
+ Primary data
+
+People (Click to expand)
+Computer hardware and software (Click to expand)
+ 
+Project Management
+Find and manage resources
+Formulate key outputs
+Create smaller deliverables
+Manage your time
+Get feedback
+TIP
+TIP
+Secondary data
+Secondary data refers to all scholarly work already done related to your research statement and is gathered through a literature review. 
+
+Managing information consists of finding the relevant information and keeping records and notes on what you find in your review. (See the section on the Literature Review in this toolkit)
+Close
+TIP
+CONSIDERING A RESEARCH DEGREE?
+PROJECT MANAGEMENT
+DOING YOUR RESEARCH 
+WRITING UP
+GETTING STARTED
+JOURNEY MAP</text>
+		</slide>
+		<slide index="47" title="" titleNormalized="" src="slide48.swf" size="16310" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Find and manage resources
+Any research requires money, information, people and computer hardware and software. Use your project plan to organise your resources in advance. You can ask for support, but as project manager it is up to you to do the asking.
+
+Money (Click to expand)
+Information (Click to expand)
+There are two types of research data: 
+
+ Secondary data 
+
+ Primary data
+
+People (Click to expand)
+Computer hardware and software (Click to expand)
+ 
+Project Management
+Find and manage resources
+Formulate key outputs
+Create smaller deliverables
+Manage your time
+Get feedback
+TIP
+TIP
+Primary data
+Primary data entails the raw data that you will analyse to come to a conclusion about your research question. It can be data that has been collected by someone else, but not yet analysed. There is nothing wrong with using good quality existing data. For existing data, consider whether you can get access to the data, how long it will take and if there are costs involved. Consider the quality of the data and the methods used for producing it and whether it is in electronic format or will have to be transcribed. For new data, consider your method for collecting the data, how you will access the sources, how long it will take and if there are costs involved. Also plan how you will capture the information (Mouton, 2001).
+Close
+TIP
+CONSIDERING A RESEARCH DEGREE?
+PROJECT MANAGEMENT
+DOING YOUR RESEARCH 
+WRITING UP
+GETTING STARTED
+JOURNEY MAP</text>
+		</slide>
+		<slide index="48" title="" titleNormalized="" src="slide49.swf" size="14170" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Find and manage resources
+Any research requires money, information, people and computer hardware and software. Use your project plan to organise your resources in advance. You can ask for support, but as project manager it is up to you to do the asking.
+
+Money (Click to expand)
+Information (Click to expand)
+People 
+Librarian
+Statistician
+Fieldwork, laboratory and data capturing assistants
+Copy editors
+Postgraduate support staff
+Computer hardware and software (Click to expand)
+ 
+Project Management
+Find and manage resources
+Formulate key outputs
+Create smaller deliverables
+Manage your time
+Get feedback
+TIP
+TIP
+TIP
+TIP
+TIP
+CONSIDERING A RESEARCH DEGREE?
+PROJECT MANAGEMENT
+DOING YOUR RESEARCH 
+WRITING UP
+GETTING STARTED
+JOURNEY MAP</text>
+		</slide>
+		<slide index="49" title="" titleNormalized="" src="slide50.swf" size="16175" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Find and manage resources
+Any research requires money, information, people and computer hardware and software. Use your project plan to organise your resources in advance. You can ask for support, but as project manager it is up to you to do the asking.
+
+Money (Click to expand)
+Information (Click to expand)
+People 
+Librarian
+Statistician
+Fieldwork, laboratory and data capturing assistants
+Copy editors
+Postgraduate support staff
+Computer hardware and software (Click to expand)
+ 
+Project Management
+Find and manage resources
+Formulate key outputs
+Create smaller deliverables
+Manage your time
+Get feedback
+TIP
+TIP
+TIP
+TIP
+TIP
+Librarian
+Academic librarians are highly specialised professionals and know where to find information on your research field. After your supervisor, they are your most valuable support. Make an appointment with your faculty librarian as early as possible in your research process. (See the Library website). 
+Close
+TIP
+CONSIDERING A RESEARCH DEGREE?
+PROJECT MANAGEMENT
+DOING YOUR RESEARCH 
+WRITING UP
+GETTING STARTED
+JOURNEY MAP</text>
+		</slide>
+		<slide index="50" title="" titleNormalized="" src="slide51.swf" size="18000" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Find and manage resources
+Any research requires money, information, people and computer hardware and software. Use your project plan to organise your resources in advance. You can ask for support, but as project manager it is up to you to do the asking.
+
+Money (Click to expand)
+Information (Click to expand)
+People 
+Librarian
+Statistician
+Fieldwork, laboratory and data capturing assistants
+Copy editors
+Postgraduate support staff
+Computer hardware and software (Click to expand)
+ 
+Project Management
+Find and manage resources
+Formulate key outputs
+Create smaller deliverables
+Manage your time
+Get feedback
+TIP
+TIP
+TIP
+TIP
+TIP
+Statistician
+If appropriate, consult Stellenbosch University’s Statistical Consultation Service (SCS) early in your research process to ensure the collection of relevant and analysable data if your study requires it. Most faculties have an agreement with SCS to consult their students for free. If not, you will have to pay for their services. 
+
+Close
+TIP
+CONSIDERING A RESEARCH DEGREE?
+PROJECT MANAGEMENT
+DOING YOUR RESEARCH 
+WRITING UP
+GETTING STARTED
+JOURNEY MAP</text>
+		</slide>
+		<slide index="51" title="" titleNormalized="" src="slide52.swf" size="16440" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Find and manage resources
+CONSIDERING A RESEARCH DEGREE?
+PROJECT MANAGEMENT
+DOING YOUR RESEARCH 
+WRITING UP
+GETTING STARTED
+JOURNEY MAP
+Any research requires money, information, people and computer hardware and software. Use your project plan to organise your resources in advance. You can ask for support, but as project manager it is up to you to do the asking.
+
+Money (Click to expand)
+Information (Click to expand)
+People 
+Librarian
+Statistician
+Fieldwork, laboratory and data capturing assistants
+Copy editors
+Postgraduate support staff
+Computer hardware and software (Click to expand)
+ 
+Project Management
+Find and manage resources
+Formulate key outputs
+Create smaller deliverables
+Manage your time
+Get feedback
+TIP
+TIP
+TIP
+TIP
+TIP
+Fieldwork, laboratory and data capturing assistants
+Your department may have assistants available to help with your research. If not and you do need the additional assistance, you will have to find and pay for freelance assistants.
+Close
+TIP</text>
+		</slide>
+		<slide index="52" title="" titleNormalized="" src="slide53.swf" size="16947" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Find and manage resources
+Any research requires money, information, people and computer hardware and software. Use your project plan to organise your resources in advance. You can ask for support, but as project manager it is up to you to do the asking.
+
+Money (Click to expand)
+Information (Click to expand)
+People 
+Librarian
+Statistician
+Fieldwork, laboratory and data capturing assistants
+Copy editors
+Postgraduate support staff
+Computer hardware and software (Click to expand)
+ 
+Project Management
+Find and manage resources
+Formulate key outputs
+Create smaller deliverables
+Manage your time
+Get feedback
+TIP
+TIP
+TIP
+TIP
+TIP
+Copy editors
+Stellenbosch University has a language editing service offered by the Language Centre at a fee. The Postgraduate Skills Development Programme also has a list of unvetted freelance editors.
+
+See also SU Language Centre’s ‘Style Guide’ and other writing resources.
+Close
+TIP
+CONSIDERING A RESEARCH DEGREE?
+PROJECT MANAGEMENT
+DOING YOUR RESEARCH 
+WRITING UP
+GETTING STARTED
+JOURNEY MAP</text>
+		</slide>
+		<slide index="53" title="" titleNormalized="" src="slide54.swf" size="17973" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Find and manage resources
+Any research requires money, information, people and computer hardware and software. Use your project plan to organise your resources in advance. You can ask for support, but as project manager it is up to you to do the asking.
+
+Money (Click to expand)
+Information (Click to expand)
+People 
+Librarian
+Statistician
+Fieldwork, laboratory and data capturing assistants
+Copy editors
+Postgraduate support staff
+Computer hardware and software (Click to expand)
+ 
+Project Management
+Find and manage resources
+Formulate key outputs
+Create smaller deliverables
+Manage your time
+Get feedback
+TIP
+TIP
+TIP
+TIP
+TIP
+Skills development and support
+The Postgraduate Skills Development Programme in the Postgraduate Office offers excellent workshops and resources that may help you to undertake and complete your postgraduate degree smoothly and on time. Keep an eye on their website throughout the year for updates and new offerings! 
+Close
+TIP
+CONSIDERING A RESEARCH DEGREE?
+PROJECT MANAGEMENT
+DOING YOUR RESEARCH 
+WRITING UP
+GETTING STARTED
+JOURNEY MAP</text>
+		</slide>
+		<slide index="54" title="" titleNormalized="" src="slide55.swf" size="15327" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Find and manage resources
+Any research requires money, information, people and computer hardware and software. Use your project plan to organise your resources in advance. You can ask for support, but as project manager it is up to you to do the asking.
+
+Money (Click to expand)
+Information (Click to expand)
+People (Click to expand)
+Computer hardware and software 
+
+You need access to a computer with at least word processing software and possibly a spreadsheet programme. You might also require high speed computing or specialised data analysis software. Establish what you will need, where you can access it or how much it will cost to buy. It is recommended that you use a form of academic reference management software for researchers like Mendeley. The university Library has excellent training and information about such programmes and if you are willing to invest some time in learning how to use them, you will be rewarded by saving weeks when it comes to compiling your bibliography. Ask your librarian. 
+Project Management
+Find and manage resources
+Formulate key outputs
+Create smaller deliverables
+Manage your time
+Get feedback
+CONSIDERING A RESEARCH DEGREE?
+PROJECT MANAGEMENT
+DOING YOUR RESEARCH 
+WRITING UP
+GETTING STARTED
+JOURNEY MAP</text>
+		</slide>
+		<slide index="55" title="" titleNormalized="" src="slide56.swf" size="13547" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Your supervisor is probably the most important person to whom you should communicate your deadlines. Not only will this place pressure on you to stick to your deadlines, but it will also allow the supervisor to plan his or her own time and ensure that you get feedback that you can incorporate into your work. 
+
+Mark the specific outputs in your project plan that you want to show your supervisor. Before you even start your research project, you should have shown your outputs and proposed deadlines to your supervisor and agreed on a set of dates to meet. In this way you will build in the feedback inherent in taught courses, ensure your development as a researcher (which is your responsibility) and avoid the all too common cycle of guilt and avoidance.
+
+Click here for some advice on managing your relationship with your supervisor and here for advice on how to get the feedback you need from your supervisor!
+ 
+Project Management
+Find feedback
+Find feedback
+Formulate key outputs
+Find and manage resources
+Create smaller deliverables
+Manage your time
+CONSIDERING A RESEARCH DEGREE?
+PROJECT MANAGEMENT
+DOING YOUR RESEARCH 
+WRITING UP
+GETTING STARTED
+JOURNEY MAP</text>
+		</slide>
+		<slide index="56" title="" titleNormalized="" src="slide57.swf" size="32618" advanceOnTime="0" framesCount="61" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="60" playTime="2.5000000" pauseTime="2.5000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Relationship with my supervisor
+Ethics compliance
+The research proposal
+The literature review
+From topic to research questions
+Conducting your research
+CONSIDERING A RESEARCH DEGREE?
+PROJECT MANAGEMENT
+DOING YOUR RESEARCH 
+WRITING UP
+GETTING STARTED
+JOURNEY MAP</text>
+		</slide>
+		<slide index="57" title="" titleNormalized="" src="slide58.swf" size="13569" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>The research proposal
+The literature review
+From topic to research questions
+Relationship with my supervisor
+Ethics compliance
+Conducting your research
+From topic to research questions
+After selecting a topic, you have to identify a researchable problem within that field. The research question is thus linked to the research problem and the goal of your research. 
+
+ Follow this process to get from Research Topic to Research Question
+
+Remember this is just a general guide. There are many different forms of questions with which to work. Mouton (2001) also gives excellent guidelines and examples of different ways in which research questions can be formulated.
+ 
+Once you have formulated your preliminary research question, try the checklist below to see if it measures up to all the necessary attributes of a good research question. 
+
+ Checklist for a good Research Question
+TIP
+TIP
+CONSIDERING A RESEARCH DEGREE?
+PROJECT MANAGEMENT
+DOING YOUR RESEARCH 
+WRITING UP
+GETTING STARTED
+JOURNEY MAP</text>
+		</slide>
+		<slide index="58" title="" titleNormalized="" src="slide59.swf" size="17631" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>The literature review
+From topic to research questions
+The research proposal
+Relationship with my supervisor
+Ethics compliance
+Conducting your research
+From topic to research questions
+From topic to research question – the process
+Close
+TIP
+e.g. “to determine the constructs that lead employees to resist the implementation of knowledge management systems (KMS)”
+e.g. “Does employee involvement in the development of KMS affect their resistance to KMS implementation?” 
+e.g. “The difficulty in retaining organisational knowledge”
+e.g. “Knowledge Management”
+Example:
+Consider how you want to investigate the problem
+Identify the central question you want to address with this study
+Identify a problem within that field
+Identify a broad interest 
+Consideration:
+Goal
+Research Question
+Research Problem
+Topic
+1
+2
+3
+4
+From Ellis and Levy (2008) 
+CONSIDERING A RESEARCH DEGREE?
+PROJECT MANAGEMENT
+DOING YOUR RESEARCH 
+WRITING UP
+GETTING STARTED
+JOURNEY MAP</text>
+		</slide>
+		<slide index="59" title="" titleNormalized="" src="slide60.swf" size="17654" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>The literature review
+From topic to research questions
+The research proposal
+Relationship with my supervisor
+Ethics compliance
+Conducting your research
+From topic to research questions
+After selecting a topic, you have to identify a researchable problem within that field. The research question is thus linked to the research problem and the goal of your research. 
+
+ Follow this process to get from Research Topic to Research Question
+
+Remember this is just a general guide. There are many different forms of questions with which to work. Mouton (2009) also gives excellent guidelines and examples of different ways in which research questions can be formulated. 
+
+Once you have formulated your preliminary research question, try the checklist below to see if it measures up to all the necessary attributes of a good research question. 
+
+ Checklist for a good Research Question
+TIP
+TIP
+Checklist for Research Question 
+
+clear and concise
+
+serve as a delineation of your study 
+
+be grounded in theory
+
+supported by literature in the field 
+
+researchable
+
+derived from practical and/or theoretical considerations 
+
+contributes to knowledge building 
+
+and has theoretical and/or practical implications 
+
+indicate the nature and direction of relationships between variables and/or themes
+
+From: Parajuli, M (2008)
+
+TIP
+Close
+CONSIDERING A RESEARCH DEGREE?
+PROJECT MANAGEMENT
+DOING YOUR RESEARCH 
+WRITING UP
+GETTING STARTED
+JOURNEY MAP</text>
+		</slide>
+		<slide index="60" title="" titleNormalized="" src="slide61.swf" size="11968" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>The research proposal
+The literature review
+From topic to research questions
+Relationship with my supervisor
+Ethics compliance
+Conducting your research
+The Stellenbosch University Library provides a huge collection of books, journals, electronic and human resources to help you to conduct a search for relevant literature to include in your review. The sheer volume of information is overwhelming, so it’s best to learn how to search comprehensively and efficiently.
+
+Make friends with your librarian (Click to expand)
+
+Develop a Search Strategy (Click to expand)
+
+What is SUNSearch? (Click to expand)
+
+Can I use Google Scholar? (Click to expand)
+
+The literature review
+CONSIDERING A RESEARCH DEGREE?
+PROJECT MANAGEMENT
+DOING YOUR RESEARCH 
+WRITING UP
+GETTING STARTED
+JOURNEY MAP</text>
+		</slide>
+		<slide index="61" title="" titleNormalized="" src="slide62.swf" size="13458" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>The research proposal
+The literature review
+From topic to research questions
+Relationship with my supervisor
+Ethics compliance
+Conducting your research
+The Stellenbosch University Library provides a huge collection of books, journals, electronic and human resources to help you to conduct a search for relevant literature to include in your review. The sheer volume of information is overwhelming, so it’s best to learn how to search comprehensively and efficiently.
+
+Make friends with your librarian 
+Stellenbosch University Library has a librarian per faculty. Take the time to meet or correspond with this person so that you can pick up useful advice from them on how to approach the Library's resources. 
+
+
+Develop a Search Strategy (Click to expand)
+What is SUNSearch? (Click to expand)
+Can I use Google Scholar? (Click to expand)
+The literature review
+CONSIDERING A RESEARCH DEGREE?
+PROJECT MANAGEMENT
+DOING YOUR RESEARCH 
+WRITING UP
+GETTING STARTED
+JOURNEY MAP</text>
+		</slide>
+		<slide index="62" title="" titleNormalized="" src="slide63.swf" size="14423" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>The research proposal
+The literature review
+From topic to research questions
+Relationship with my supervisor
+Ethics compliance
+Conducting your research
+The Stellenbosch University Library provides a huge collection of books, journals, electronic and human resources to help you to conduct a search for relevant literature to include in your review. The sheer volume of information is overwhelming, so it’s best to learn how to search comprehensively and efficiently.
+
+Make friends with your librarian (Click to expand)
+
+Develop a Search Strategy 
+Make a short list of the phrases and keywords in your research question. Try different combinations and remember that there may be different words used for the same concept. Your search will probably yield broad results in the beginning. Select a few relevant items to narrow down the results. Thereafter, expand your search on specific authors' previous articles on related topics to create a more manageable collection. Conversely, you might start out with a narrow search in a subject specific database, after which you can expand your search using a meta-search tool to find related and more recent literature. The library offers excellent courses and online resources for developing a search strategy.
+
+What is SUNSearch? (Click to expand)
+Can I use Google Scholar? (Click to expand)
+The literature review
+CONSIDERING A RESEARCH DEGREE?
+PROJECT MANAGEMENT
+DOING YOUR RESEARCH 
+WRITING UP
+GETTING STARTED
+JOURNEY MAP</text>
+		</slide>
+		<slide index="63" title="" titleNormalized="" src="slide64.swf" size="13798" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>The research proposal
+The literature review
+From topic to research questions
+Relationship with my supervisor
+Ethics compliance
+Conducting your research
+The Stellenbosch University Library provides a huge collection of books, journals, electronic and human resources to help you to conduct a search for relevant literature to include in your review. The sheer volume of information is overwhelming, so it’s best to learn how to search comprehensively and efficiently.
+
+Make friends with your librarian (Click to expand)
+Develop a Search Strategy (Click to expand)
+
+What is SUNSearch? 
+As a registered student of the university, you have access to the entire library catalogue through a federated search tool called SUNSearch which allows a user to search multiple databases simultaneously. The way in which the results are delivered is novel and it offers a lot of additional advantages to a user, like the ability to save your previous searches. 
+
+Can I use Google Scholar? (Click to expand)
+The literature review
+CONSIDERING A RESEARCH DEGREE?
+PROJECT MANAGEMENT
+DOING YOUR RESEARCH 
+WRITING UP
+GETTING STARTED
+JOURNEY MAP</text>
+		</slide>
+		<slide index="64" title="" titleNormalized="" src="slide65.swf" size="14220" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Conducting your research
+The Stellenbosch University Library provides a huge collection of books, journals, electronic and human resources to help you to conduct a search for relevant literature to include in your review. The sheer volume of information is overwhelming, so it’s best to learn how to search comprehensively and efficiently.
+
+Make friends with your librarian (Click to expand)
+Develop a Search Strategy (Click to expand)
+What is SUNSearch? (Click to expand)
+
+Can I use Google Scholar? 
+Google Scholar can be a good starting point, but take care to not only rely on Google Scholar because you could end up missing a lot of important literature simply because these did not come up as the highest ranking hits in a search. Especially older publications are unlikely to feature in Google Scholar. This is where your librarian could prove to be invaluable in pointing you to field specific databases. Remember to log on to the Library’s website first to maximize your Google Scholar success rate i.e. search Google Scholar via the Library’s website to gain access to full articles.
+
+The literature review
+CONSIDERING A RESEARCH DEGREE?
+PROJECT MANAGEMENT
+DOING YOUR RESEARCH 
+WRITING UP
+GETTING STARTED
+JOURNEY MAP
+The research proposal
+The literature review
+From topic to research questions
+Relationship with my supervisor
+Ethics compliance</text>
+		</slide>
+		<slide index="65" title="" titleNormalized="" src="slide66.swf" size="14756" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>The research proposal
+The literature review
+From topic to research questions
+Relationship with my supervisor
+Ethics compliance
+Conducting your research
+The research proposal
+The importance of a good research proposal
+
+Drafting a research proposal is an essential part of the postgraduate research process and in some instances, the acceptance of this proposal may be a required before a student is allowed to register. (See: Doctoral Registration – 2 models). The value of this piece of work goes much further than that though. Regardless of your field of study, or whether you are doing research for a Master's or PhD degree, putting effort into writing a good research proposal is worthwhile, as it will make the process of writing your thesis so much easier. Some experts go as far as saying that a good research proposal can make your thesis as easy as "filling in the blanks". Well, it is not entirely as simple as that, but a good proposal should provide a good structure to work within. Furthermore, developing proposal writing as a skill is of great value, especially if you are considering a career in research. In that case you will probably write numerous research and grant proposals throughout your career.
+
+2. The content of a research proposal (Click to expand)
+
+3. Further readings on proposals (Click to expand)
+
+
+CONSIDERING A RESEARCH DEGREE?
+PROJECT MANAGEMENT
+DOING YOUR RESEARCH 
+WRITING UP
+GETTING STARTED
+JOURNEY MAP</text>
+		</slide>
+		<slide index="66" title="" titleNormalized="" src="slide67.swf" size="16957" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>The research proposal
+The literature review
+From topic to research questions
+Relationship with my supervisor
+Ethics compliance
+Conducting your research
+The research proposal
+The importance of a good research proposal (Click to expand)
+
+ 2. The content of a research proposal
+It is possible that a very specific format may be prescribed within your department so it is important to ask your supervisor. That being said, the following aspects are likely to be required. Click on each topic below to see more about a specific section. 
+The Title 
+Research Question
+Aim of the Study
+Theoretical Framework
+Rationale
+Literature Review
+Methodology
+Timeframe and Resources
+
+3. Further readings on proposals (Click to expand)
+TIP
+TIP
+TIP
+TIP
+TIP
+TIP
+TIP
+TIP
+CONSIDERING A RESEARCH DEGREE?
+PROJECT MANAGEMENT
+DOING YOUR RESEARCH 
+WRITING UP
+GETTING STARTED
+JOURNEY MAP</text>
+		</slide>
+		<slide index="67" title="" titleNormalized="" src="slide68.swf" size="19243" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>The research proposal
+The literature review
+From topic to research questions
+Relationship with my supervisor
+Ethics compliance
+Conducting your research
+The research proposal
+The importance of a good research proposal (Click to expand)
+
+ 2. The content of a research proposal
+It is possible that a very specific format may be prescribed within your department so it is important to ask your supervisor. That being said, the following aspects are likely to be required. Click on each topic below to see more about a specific section. 
+The Title 
+Research Question
+Aim of the Study
+Theoretical Framework
+Rationale
+Literature Review
+Methodology
+Timeframe and Resources
+
+3. Further readings on proposals (Click to expand)
+TIP
+TIP
+TIP
+TIP
+TIP
+TIP
+TIP
+TIP
+The Title
+This refers to the likely title of your eventual thesis or dissertation. At this stage it is your proposed title, which means it is likely to change somewhat through the course of your research. A good title is a clear and succinct description of the research topic. 
+Close
+TIP
+CONSIDERING A RESEARCH DEGREE?
+PROJECT MANAGEMENT
+DOING YOUR RESEARCH 
+WRITING UP
+GETTING STARTED
+JOURNEY MAP</text>
+		</slide>
+		<slide index="68" title="" titleNormalized="" src="slide69.swf" size="16768" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>The research proposal
+The literature review
+From topic to research questions
+Relationship with my supervisor
+Ethics compliance
+Conducting your research
+The research proposal
+The importance of a good research proposal (Click to expand)
+
+ 2. The content of a research proposal
+It is possible that a very specific format may be prescribed within your department so it is important to ask your supervisor. That being said, the following aspects are likely to be required. Click on each topic below to see more about a specific section. 
+The Title 
+Research Question
+Aim of the Study
+Theoretical Framework
+Rationale
+Literature Review
+Methodology
+Timeframe and Resources
+
+3. Further readings on proposals (Click to expand)
+TIP
+TIP
+TIP
+TIP
+TIP
+TIP
+TIP
+TIP
+Research Question
+Similar to including the title of your study in your research proposal, you will also include the research question you have formulated.
+Close
+TIP
+CONSIDERING A RESEARCH DEGREE?
+PROJECT MANAGEMENT
+DOING YOUR RESEARCH 
+WRITING UP
+GETTING STARTED
+JOURNEY MAP</text>
+		</slide>
+		<slide index="69" title="" titleNormalized="" src="slide70.swf" size="17277" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>The research proposal
+The literature review
+From topic to research questions
+Relationship with my supervisor
+Ethics compliance
+Conducting your research
+The research proposal
+The importance of a good research proposal (Click to expand)
+
+ 2. The content of a research proposal
+It is possible that a very specific format may be prescribed within your department so it is important to ask your supervisor. That being said, the following aspects are likely to be required. Click on each topic below to see more about a specific section. 
+The Title 
+Research Question
+Aim of the Study
+Theoretical Framework
+Rationale
+Literature Review
+Methodology
+Timeframe and Resources
+
+3. Further readings on proposals (Click to expand)
+TIP
+TIP
+TIP
+TIP
+TIP
+TIP
+TIP
+TIP
+Aim of the study
+The goal that you formulated while focusing your study from a topic to a research question is a handy tool here. 
+
+What do you want to study and what is the end product that you envision?
+Close
+TIP
+CONSIDERING A RESEARCH DEGREE?
+PROJECT MANAGEMENT
+DOING YOUR RESEARCH 
+WRITING UP
+GETTING STARTED
+JOURNEY MAP</text>
+		</slide>
+		<slide index="70" title="" titleNormalized="" src="slide71.swf" size="17703" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>The research proposal
+The literature review
+From topic to research questions
+Relationship with my supervisor
+Ethics compliance
+Conducting your research
+The research proposal
+The importance of a good research proposal (Click to expand)
+
+ 2. The content of a research proposal
+It is possible that a very specific format may be prescribed within your department so it is important to ask your supervisor. That being said, the following aspects are likely to be required. Click on each topic below to see more about a specific section. 
+The Title 
+Research Question
+Aim of the Study
+Theoretical Framework
+Rationale
+Literature Review
+Methodology
+Timeframe and Resources
+
+3. Further readings on proposals (Click to expand)
+TIP
+TIP
+TIP
+TIP
+TIP
+TIP
+TIP
+TIP
+Theoretical Framework
+In this section you should explain the core concepts attached to the study. 
+
+Mouton's (2001) example of a good proposal is an excellent resource in this regard, as it gives a practical example of how a student unpacked the core concepts in a well structured manner against a solid theoretical background. 
+ 
+Close
+TIP
+CONSIDERING A RESEARCH DEGREE?
+PROJECT MANAGEMENT
+DOING YOUR RESEARCH 
+WRITING UP
+GETTING STARTED
+JOURNEY MAP</text>
+		</slide>
+		<slide index="71" title="" titleNormalized="" src="slide72.swf" size="20158" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>The research proposal
+The literature review
+From topic to research questions
+Relationship with my supervisor
+Ethics compliance
+Conducting your research
+The research proposal
+The importance of a good research proposal (Click to expand)
+
+ 2. The content of a research proposal
+It is possible that a very specific format may be prescribed within your department so it is important to ask your supervisor. That being said, the following aspects are likely to be required. Click on each topic below to see more about a specific section. 
+The Title 
+Research Question
+Aim of the Study
+Theoretical Framework
+Rationale
+Literature Review
+Methodology
+Timeframe and Resources
+
+3. Further readings on proposals (Click to expand)
+TIP
+TIP
+TIP
+TIP
+TIP
+TIP
+TIP
+TIP
+Rationale
+Why are you conducting this research? This section should give an indication of the "general importance of the issue you plan to investigate" (Bak, 2004:17). This section should include more than just your motivation for conducting the study (although this is important), but should go further to render reasons for the significance of the study within the academic community. Existing literature on the topic may form a good reference point here.
+Close
+TIP
+CONSIDERING A RESEARCH DEGREE?
+PROJECT MANAGEMENT
+DOING YOUR RESEARCH 
+WRITING UP
+GETTING STARTED
+JOURNEY MAP</text>
+		</slide>
+		<slide index="72" title="" titleNormalized="" src="slide73.swf" size="17821" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>The research proposal
+The literature review
+From topic to research questions
+Relationship with my supervisor
+Ethics compliance
+Conducting your research
+The research proposal
+The importance of a good research proposal (Click to expand)
+
+ 2. The content of a research proposal
+It is possible that a very specific format may be prescribed within your department so it is important to ask your supervisor. That being said, the following aspects are likely to be required. Click on each topic below to see more about a specific section. 
+The Title 
+Research Question
+Aim of the Study
+Theoretical Framework
+Rationale
+Literature Review
+Methodology
+Timeframe and Resources
+
+3. Further readings on proposals (Click to expand)
+TIP
+TIP
+TIP
+TIP
+TIP
+TIP
+TIP
+TIP
+Literature Review
+The literature review will eventually form part of your thesis and should be included in your proposal as it forms the backbone of your theoretical research up to this point. 
+
+Find a short explainer video by the Writing Lab on writing a literature review (A Dinner Party) here.
+Close
+TIP
+CONSIDERING A RESEARCH DEGREE?
+PROJECT MANAGEMENT
+DOING YOUR RESEARCH 
+WRITING UP
+GETTING STARTED
+JOURNEY MAP</text>
+		</slide>
+		<slide index="73" title="" titleNormalized="" src="slide74.swf" size="18714" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>The research proposal
+The literature review
+From topic to research questions
+Relationship with my supervisor
+Ethics compliance
+Conducting your research
+The research proposal
+The importance of a good research proposal (Click to expand)
+
+ 2. The content of a research proposal
+It is possible that a very specific format may be prescribed within your department so it is important to ask your supervisor. That being said, the following aspects are likely to be required. Click on each topic below to see more about a specific section. 
+The Title 
+Research Question
+Aim of the Study
+Theoretical Framework
+Rationale
+Literature Review
+Methodology
+Timeframe and Resources
+
+3. Further readings on proposals (Click to expand)
+TIP
+TIP
+TIP
+TIP
+TIP
+TIP
+TIP
+TIP
+Methodology
+How do you plan to go about conducting your research? This section can also be used to "defend" the manner in which you plan to conduct the study. This section may include the details of your chosen research design and methods, as well as give an overview of cases you plan to use in your study, the data collection and analysis techniques you plan to employ. Some experts suggest dividing this section up into smaller segments dealing with those topics individually. This is a very good idea, as this section can become extremely long and potentially lose its focus if all of these aspects are covered in one go.
+Close
+TIP
+CONSIDERING A RESEARCH DEGREE?
+PROJECT MANAGEMENT
+DOING YOUR RESEARCH 
+WRITING UP
+GETTING STARTED
+JOURNEY MAP</text>
+		</slide>
+		<slide index="74" title="" titleNormalized="" src="slide75.swf" size="18052" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>The research proposal
+The literature review
+From topic to research questions
+Relationship with my supervisor
+Ethics compliance
+Conducting your research
+The research proposal
+The importance of a good research proposal (Click to expand)
+
+ 2. The content of a research proposal
+It is possible that a very specific format may be prescribed within your department so it is important to ask your supervisor. That being said, the following aspects are likely to be required. Click on each topic below to see more about a specific section. 
+The Title 
+Research Question
+Aim of the Study
+Theoretical Framework
+Rationale
+Literature Review
+Methodology
+Timeframe and Resources
+
+3. Further readings on proposals (Click to expand)
+TIP
+TIP
+TIP
+TIP
+TIP
+TIP
+TIP
+TIP
+Timeframe and Resources
+You cannot anticipate exactly how long your study will take, but it is extremely important to set goals and to stick to them in order to evaluate your own progress. 
+
+Note that some faculties require an Intention to Submit Form to be handed in by March in order to graduate in December the same year.
+
+You will also need to determine the resources, be it infrastructural or financial, needed to conduct your study. 
+Close
+TIP
+CONSIDERING A RESEARCH DEGREE?
+PROJECT MANAGEMENT
+DOING YOUR RESEARCH 
+WRITING UP
+GETTING STARTED
+JOURNEY MAP</text>
+		</slide>
+		<slide index="75" title="" titleNormalized="" src="slide76.swf" size="12949" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Conducting your research
+The research proposal
+The research proposal
+The importance of a good research proposal (Click to expand)
+The content of a research proposal (Click to expand)
+
+Further readings on proposals
+
+Bak, N. 2004.
+Hofstee, E. 2010. 
+Mouton, J. 2001.
+Ellis, T. and Levy, Y. 2008
+
+For the full references to these works please go to Reference List. 
+
+Apart from the books listed above, the internet also offers a wide range of resources in this regard. There are a number of university libraries that also post examples and suggested templates for research proposals. Focusing your online search on your field of study may give you even better examples of proposals structured in a way that is relevant to your field. Always remember to discuss your proposed structure with your supervisor. 
+CONSIDERING A RESEARCH DEGREE?
+PROJECT MANAGEMENT
+DOING YOUR RESEARCH 
+WRITING UP
+GETTING STARTED
+JOURNEY MAP
+The literature review
+From topic to research questions
+Relationship with my supervisor
+Ethics compliance</text>
+		</slide>
+		<slide index="76" title="" titleNormalized="" src="slide77.swf" size="13215" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>The literature review
+The research proposal
+From topic to research questions
+Ethics compliance
+Relationship with my supervisor
+Conducting your research
+Overview
+
+Stellenbosch University believes that a good researcher is one who considers the people and things around them and always adheres to the principles of mutual respect, high standard of scholarship, responsibility and transparency. The Division for Research Development (DRD) is responsible for ensuring that all research undertaken through the university, including postgraduate research, adheres to these standards. On the DRD’s website (click here) you will find the relevant policies related to ethics and integrity as well as information about the process of Ethics Approval for your postgraduate research project. Here we will try to give you a brief overview. 
+
+Ethics approval (Click to expand)
+
+Plagiarism (Click to expand)
+
+Policies (Click to expand)
+Ethics compliance
+CONSIDERING A RESEARCH DEGREE?
+PROJECT MANAGEMENT
+DOING YOUR RESEARCH 
+WRITING UP
+GETTING STARTED
+JOURNEY MAP</text>
+		</slide>
+		<slide index="77" title="" titleNormalized="" src="slide78.swf" size="16532" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>The literature review
+The research proposal
+From topic to research questions
+Ethics compliance
+Relationship with my supervisor
+Conducting your research
+Overview (Click to expand)
+
+Ethics approval 
+Ensure you have the necessary approval for your research before you start collecting data. Ask your supervisor for guidance. Projects that pose a low risk may be approved at Faculty level and are then ratified by the Research Ethics Committee (REC), but those that may potentially harm people, animals or the environment, must be reviewed and approved by one of the formal RECs. RECs meet at specified times through the year, so take these dates into account in your project planning. Waiting for ethics approval can really hold up your research - be sure to build in the time and follow the correct steps. There are five committees - which one you apply to will depend on your research area and methods: (also see the DRD webpage).
+
+Social Science, Behavioural &amp; Education Ethics Committee (REC: SBE)
+Animal Care &amp; Use Ethics Committee (REC:ACU)
+Biosafety and Environmental Ethics Committee (REC: BEE)
+Health Research Ethics Committees 1 &amp; 2 (HRECs)
+
+Plagiarism (Click to expand)
+Policies (Click to expand)
+Ethics compliance
+TIP
+TIP
+TIP
+TIP
+CONSIDERING A RESEARCH DEGREE?
+PROJECT MANAGEMENT
+DOING YOUR RESEARCH 
+WRITING UP
+GETTING STARTED
+JOURNEY MAP</text>
+		</slide>
+		<slide index="78" title="" titleNormalized="" src="slide79.swf" size="19988" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>The literature review
+The research proposal
+From topic to research questions
+Ethics compliance
+Relationship with my supervisor
+Conducting your research
+Overview (Click to expand)
+
+Ethics approval process 
+Ensure you have the necessary approval for your research before you start collecting data. Ask your supervisor whether you need to formally apply for ethics clearance. Projects that pose a low risk may be approved at Faculty level, but those that may potentially harm people, animals or the environment, must be approved by one of the formal Research Ethics Committees (RECs). RECs meet at specified times through the year, so take these dates into account in your project planning,. Waiting for ethics approval can really hold up your research - be sure to build in the time and follow the correct steps. There are four committees - which one you apply to will depend on your research area and methods: (also see DRD webpage).
+
+Human Research Ethics Committee
+Animal Research Ethics Committee
+Biosafety and Environment Ethics Committee
+Health Research Ethics Committee
+
+Plagiarism (Click to expand)
+Policies (Click to expand)
+Ethics compliance
+TIP
+TIP
+TIP
+TIP
+CONSIDERING A RESEARCH DEGREE?
+PROJECT MANAGEMENT
+DOING YOUR RESEARCH 
+WRITING UP
+GETTING STARTED
+JOURNEY MAP
+Social Science, Behavioural &amp; Education Research Ethics Committee
+The ethics application process starts within respective Departments via the Departmental Ethics Screening Committee (DESC). Applications are screened to determine their risk levels. Applications of minimal and low risk are screened by the DESC and are ratified by the REC. Applications with medium to high ethics risks are referred to the REC for full review. 
+
+See the DRD’s Research Integrity &amp; Ethics webpage for details
+
+
+
+TIP
+Close</text>
+		</slide>
+		<slide index="79" title="" titleNormalized="" src="slide80.swf" size="19135" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>The literature review
+The research proposal
+From topic to research questions
+Ethics compliance
+Relationship with my supervisor
+Conducting your research
+Overview (Click to expand)
+
+Ethics approval process 
+Ensure you have the necessary approval for your research before you start collecting data. Ask your supervisor whether you need to formally apply for ethics clearance. Projects that pose a low risk may be approved at Faculty level, but those that may potentially harm people, animals or the environment, must be approved by one of the formal Research Ethics Committees (RECs). RECs meet at specified times through the year, so take these dates into account in your project planning,. Waiting for ethics approval can really hold up your research - be sure to build in the time and follow the correct steps. There are four committees - which one you apply to will depend on your research area and methods: (also see DRD webpage).
+
+Human Research Ethics Committee
+Animal Research Ethics Committee
+Biosafety and Environment Ethics Committee
+Health Research Ethics Committee
+
+Plagiarism (Click to expand)
+Policies (Click to expand)
+Ethics compliance
+TIP
+TIP
+TIP
+TIP
+Animal Care and Use Research Ethics Committee
+TIP
+All animal research and teaching conducted under the auspices of SU should uphold the “Three R" principles for humane animal research, namely:
+ Replacement - wherever possible, replace “sentient” animals, with “non-sentient” research models in order to eliminate the use of animals that can experience unpleasant sensations. Reduction -  use design strategies that try to use the smallest number of living beings that will allow valid information to be obtained from the study. Refinement - refine your practices around animal sourcing, animal care and experimental procedures to eliminate physical and psychological distress as much as possible. 
+
+When do I need ethics clearance for an animal study?
+Ethics clearance must be obtained for the use of  all live non-human vertebrates and higher invertebrates such as the advanced members from the Cephalopoda and Decapoda, including eggs, foetuses and embryos ( where development of an integrated nervous system is evident) in research and teaching activities (SANS 10386:2008).
+
+See the DRD’s Research Integrity &amp; Ethics webpage for details.
+
+
+Close
+CONSIDERING A RESEARCH DEGREE?
+PROJECT MANAGEMENT
+DOING YOUR RESEARCH 
+WRITING UP
+GETTING STARTED
+JOURNEY MAP</text>
+		</slide>
+		<slide index="80" title="" titleNormalized="" src="slide81.swf" size="20029" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>The literature review
+The research proposal
+From topic to research questions
+Ethics compliance
+Relationship with my supervisor
+Conducting your research
+Overview (Click to expand)
+
+Ethics approval process 
+Ensure you have the necessary approval for your research before you start collecting data. Ask your supervisor whether you need to formally apply for ethics clearance. Projects that pose a low risk may be approved at Faculty level, but those that may potentially harm people, animals or the environment, must be approved by one of the formal Research Ethics Committees (RECs). RECs meet at specified times through the year, so take these dates into account in your project planning,. Waiting for ethics approval can really hold up your research - be sure to build in the time and follow the correct steps. There are four committees - which one you apply to will depend on your research area and methods: (also see DRD webpage).
+
+Human Research Ethics Committee
+Animal Research Ethics Committee
+Biosafety and Environment Ethics Committee
+Health Research Ethics Committee
+
+Plagiarism (Click to expand)
+Policies (Click to expand)
+Ethics compliance
+TIP
+TIP
+TIP
+TIP
+Biosafety and  Environmental Ethics Committee
+TIP
+This committee is mandated to review and approve research that is potentially hazardous to humans, animals or the environment. Such research may involve work related to Recombinant DNA, Pathogens and Infectious Agents, or Biological Toxins. The committee is also responsible for providing guidance on practices to minimize health and environmental hazards related to biological agents used in research and teaching within the university community.  All research involving genetically modified organisms or research that poses a risk to the natural environment or the researcher and supporting staff, must be submitted for ethical review and approval before the research commences. All SU researchers and lecturers are responsible for obtaining ethics approval for a given project or teaching activity before its start date.   Applications for ethics approval should be prepared in consultation with peers, the relevant Head of Department, and the Reek's administration office.
+
+See the DRD’s Research Integrity &amp; Ethics webpage for details.
+
+
+Close
+CONSIDERING A RESEARCH DEGREE?
+PROJECT MANAGEMENT
+DOING YOUR RESEARCH 
+WRITING UP
+GETTING STARTED
+JOURNEY MAP</text>
+		</slide>
+		<slide index="81" title="" titleNormalized="" src="slide82.swf" size="19349" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>The literature review
+The research proposal
+From topic to research questions
+Ethics compliance
+Relationship with my supervisor
+Conducting your research
+Overview (Click to expand)
+
+Ethics approval process 
+Ensure you have the necessary approval for your research before you start collecting data. Ask your supervisor whether you need to formally apply for ethics clearance. Projects that pose a low risk may be approved at Faculty level, but those that may potentially harm people, animals or the environment, must be approved by one of the formal Research Ethics Committees (RECs). RECs meet at specified times through the year, so take these dates into account in your project planning,. Waiting for ethics approval can really hold up your research - be sure to build in the time and follow the correct steps. There are four committees - which one you apply to will depend on your research area and methods: (also see DRD webpage).
+
+Human Research Ethics Committee
+Animal Research Ethics Committee
+Biosafety and Environment Ethics Committee
+Health Research Ethics Committee
+
+Plagiarism (Click to expand)
+Policies (Click to expand)
+Ethics compliance
+TIP
+TIP
+TIP
+TIP
+Health Research Ethics Committees 1 &amp; 2
+TIP
+All health research, as defined by the National Health Act, must be reviewed and approved by a research ethics committee registered with the National Health Research Ethics Council. Thus all health related research involving:
+
+any direct interaction with or observation of human participants,
+the use of potentially identifiable personal health records, information or tissue specimens, and/or,
+human progenitor or stem cells
+
+requires the approval of a Stellenbosch University Research Ethics Committee (REC) before the research study commences.
+ Due to the number of review requests, there are two Health RECs, they meet at different times but both have exactly the same status and function. 
+
+See the DRD’s Research Integrity &amp; Ethics webpage for details.
+
+Close
+CONSIDERING A RESEARCH DEGREE?
+PROJECT MANAGEMENT
+DOING YOUR RESEARCH 
+WRITING UP
+GETTING STARTED
+JOURNEY MAP</text>
+		</slide>
+		<slide index="82" title="" titleNormalized="" src="slide83.swf" size="15566" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>The literature review
+The research proposal
+From topic to research questions
+Ethics compliance
+Relationship with my supervisor
+Conducting your research
+Overview (Click to expand)
+
+Ethics approval (Click to expand)
+
+Plagiarism 
+Plagiarism, even “accidental” plagiarism, is seen as serious scientific misconduct. If you are not sure about what plagiarism is, self-enrol for the Postgraduate Skills Development Programme’s online course on how to avoid plagiarism. Stellenbosch University also has a similarity detector tool called Turnitin. Turnitin does not measure plagiarism, rather it shows you where your document is similar to other work stored in its memory (all published work, as well as previous uploads by you and other people). So it is only a tool to help you check that you have not plagiarised. The Postgraduate Skills Development Programme and the University Library can assist with the use of this tool. Make sure to ask for the “sandbox” version if you want to use it as a training tool and not as a final formal requirement, as sometimes expected by supervisors. Otherwise, if you try to load the next version of your document, it will show up high levels of similarity, because Turnitin would have saved your previous version. The “sandbox” deletes your previous version from its memory. Also see the Plagiarism Policy of the university in the next section. 
+
+Policies (Click to expand)
+Ethics compliance
+CONSIDERING A RESEARCH DEGREE?
+PROJECT MANAGEMENT
+DOING YOUR RESEARCH 
+WRITING UP
+GETTING STARTED
+JOURNEY MAP</text>
+		</slide>
+		<slide index="83" title="" titleNormalized="" src="slide84.swf" size="12196" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>The literature review
+The research proposal
+From topic to research questions
+Ethics compliance
+Relationship with my supervisor
+Conducting your research
+Overview (Click to expand)
+
+Ethics approval (Click to expand)
+
+Plagiarism (Click to expand)
+
+Policies
+
+Please also check the DRD web page for updates to these policies.
+
+Policy for responsible research conduct at Stellenbosch University (2013)
+
+Policy on Plagiarism (in Support of Academic Integrity) (2016)
+
+Stellenbosch University procedure for the investigation and management of allegations of plagiarism (2016) 
+Ethics compliance
+CONSIDERING A RESEARCH DEGREE?
+PROJECT MANAGEMENT
+DOING YOUR RESEARCH 
+WRITING UP
+GETTING STARTED
+JOURNEY MAP</text>
+		</slide>
+		<slide index="84" title="" titleNormalized="" src="slide85.swf" size="11889" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Conducting your research
+Like any relationship, your relationship with your supervisor can have its ups and downs. As the project manager of your research degree, you also share the responsibility for managing this relationship. This is not always easy – sometimes you do not get to choose your own supervisor, or your expectations of a particular supervisor are disappointing On the other hand, always try to remember that supervisors are not superhuman. Like us, they have their strengths and weaknesses. 
+
+How to avoid problems in your supervisor relationship (Click to expand)
+
+What if things go really wrong? (Click to expand)
+
+Relationship with my supervisor
+CONSIDERING A RESEARCH DEGREE?
+PROJECT MANAGEMENT
+DOING YOUR RESEARCH 
+WRITING UP
+GETTING STARTED
+JOURNEY MAP
+Relationship with my supervisor
+The literature review
+The research proposal
+From topic to research questions
+Ethics compliance</text>
+		</slide>
+		<slide index="85" title="" titleNormalized="" src="slide86.swf" size="15953" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Conducting your research
+Like any relationship, your relationship with your supervisor can have its ups and downs. As the project manager of your research degree, you also share the responsibility for managing this relationship. This is not always easy – sometimes we do not get to choose our own supervisor, or our expectations of a particular supervisor are disappointed. On the other hand, always try to remember that supervisors are not superhuman. Like us, they have their strengths and weaknesses. 
+
+How to avoid problems in your supervisor relationship 
+Many, many issues can be sorted out through open communication. For a start, make sure both you and your supervisor have a similar understanding of your respective responsibilities. It is compulsory to discuss and sign a Memorandum of Understanding between you and your supervisor before you start your research. It is important to clarify expectations right in the beginning– ask your supervisor/s how they would like to work with you, what they expect of you and let them know well in advance if you are not going to be able to meet a particular expectation. Every relationship will be different because of individual differences, disciplinary differences, departmental contexts etc. There is therefore no set template for doing it ‘right’ – the discussion and agreement itself is probably more important than the content you agree on. Have a look at the example of a Memorandum of Understanding. 
+
+What if things go really wrong? (Click to expand)
+
+Relationship with my supervisor
+CONSIDERING A RESEARCH DEGREE?
+PROJECT MANAGEMENT
+DOING YOUR RESEARCH 
+WRITING UP
+GETTING STARTED
+JOURNEY MAP
+Relationship with my supervisor
+The literature review
+The research proposal
+From topic to research questions
+Ethics compliance</text>
+		</slide>
+		<slide index="86" title="" titleNormalized="" src="slide87.swf" size="15796" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Conducting your research
+Like any relationship, your relationship with your supervisor can have its ups and downs. As the project manager of your research degree, you also share the responsibility for managing this relationship. This is not always easy – sometimes we do not get to choose our own supervisor, or our expectations of a particular supervisor are disappointed. On the other hand, always try to remember that supervisors are not superhuman. Like us, they have their strengths and weaknesses. 
+
+How to avoid problems in your supervisor relationship (Click to expand)
+
+What if things go really wrong?
+Clarifying expectations early on can avoid many of the common problems experienced in a supervision relationship. So can honest communication with your supervisor – also about things you did not or do not feel you need help with. If you have serious concerns about your relationship with your supervisor, the MoU could also form a good basis for a discussion about your concerns. In some cases, you might need to ask for an intervention from someone else in the university, (your first step would be Head of Department), although it could be uncomfortable for you to expose yourself in this way. Having said that, if you have done all you can to speak to your supervisor about your concerns and still feel unfairly treated, you do need to take it up with someone like the Head of Department, or another senior colleague. The University’s Director: Postgraduate Office may also be a helpful contact depending on the nature of the conflict or unhappiness.
+Relationship with my supervisor
+Relationship with my supervisor
+The literature review
+The research proposal
+From topic to research questions
+Ethics compliance
+CONSIDERING A RESEARCH DEGREE?
+PROJECT MANAGEMENT
+DOING YOUR RESEARCH 
+WRITING UP
+GETTING STARTED
+JOURNEY MAP</text>
+		</slide>
+		<slide index="87" title="" titleNormalized="" src="slide88.swf" size="28126" advanceOnTime="0" framesCount="37" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="36" playTime="1.5000000" pauseTime="3.5000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Considering a Research Degree?
+Logic and Structure of the final document
+Writer’s block
+Real academic writing
+Writing Up
+CONSIDERING A RESEARCH DEGREE?
+PROJECT MANAGEMENT
+DOING YOUR RESEARCH 
+WRITING UP
+GETTING STARTED
+JOURNEY MAP</text>
+		</slide>
+		<slide index="88" title="" titleNormalized="" src="slide89.swf" size="13490" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Writing Up
+Myths about academic writing
+
+One of the biggest myths about postgraduate study is that writing occurs towards the end of your studies, after you have done all the data collection and analysis. Writing should ,in fact, be an activity throughout your degree. By writing down your responses to an article you have read, or to a set of results in the lab, you are starting to formulate your arguments which will go into your final product. A good practice is not to let a day go by without doing some form of writing. Most students think that writing is about crafting and proofing the final product, about good grammar and big words. They are unaware of the stages involved in good academic writing. In the earlier stages of your degree, writing is a tool for thinking. Nobody but you needs to see what you have written. Keeping up a regular writing habit will also make the compilation of your final documents less daunting. 
+ 
+ The stages of real academic writing
+
+See also ‘Supporting Academic Writing’ 
+
+And ‘How is Good Science Writing Like Good Cooking?’
+Real academic writing
+Real academic writing
+Writer’s block
+
+Logic and Structure of the final document
+TIP
+CONSIDERING A RESEARCH DEGREE?
+PROJECT MANAGEMENT
+DOING YOUR RESEARCH 
+WRITING UP
+GETTING STARTED
+JOURNEY MAP</text>
+		</slide>
+		<slide index="89" title="" titleNormalized="" src="slide90.swf" size="52307" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Writing Up
+Myths about academic writing (click to expand)
+ 
+Real academic writing as three overlapping stages 
+Throughout your degree you will go through a number of cycles of the writing process. For example, when you develop your proposal, you will go through the phases of pre-writing (for yourself) , drafting (for your supervisor or someone else) and editing (preparing the final documents for presentation or publication).You will go through similar cycles for each chapter, article and of course your final thesis or dissertation. Most people neglect the first phase and never get to experience the real benefits of writing just for yourself, leading to anxiety, avoidance and writer’s block. 
+ 
+Real academic writing
+Real academic writing
+Writer’s block
+
+Logic and Structure of the final document
+
+Real academic writing as three overlapping phases
+TIP
+It is much easier and more enjoyable to write academically if you start regarding writing as a process, consisting of three overlapping stages. 
+
+
+
+
+
+
+
+
+
+
+
+
+Throughout your degree, you will go through a number of cycles of this writing process. For example, when you develop your proposal, you will go through the phases of pre-writing (for yourself) , drafting (for your supervisor) and editing (preparing the final documents for presentation/publication). You will go through similar cycles for each chapter, article and of course your final thesis or dissertation. With a document as big as a dissertation, you will go through the cycle numerous times. 
+
+By neglecting the first phase, most people never get to experience the real benefits and even joys of writing just for yourself. By focusing only on the final phases, writing can be anxiety provoking, leading to avoidance and writer’s block.
+
+Close
+CONSIDERING A RESEARCH DEGREE?
+PROJECT MANAGEMENT
+DOING YOUR RESEARCH 
+WRITING UP
+GETTING STARTED
+JOURNEY MAP</text>
+		</slide>
+		<slide index="90" title="" titleNormalized="" src="slide91.swf" size="11279" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Writing Up
+Many students, and even seasoned academics, have found themselves staring at their computer screens in a state of anxiety over not being able to start typing up their research, or being unable to formulate coherent sentences. Writer's block can be an incapacitating and extremely stressful experience, and in extreme cases it has lead to students discontinuing their studies.
+
+Conquering writer’s block
+The way to tackle writer’s block often depends on the cause of the problem. 
+
+
+
+
+Writer’s block
+TIP
+Causes of writer’s block
+TIP
+Help for your writer’s block
+Real academic writing
+Writer’s block
+
+Logic and Structure of the final document
+CONSIDERING A RESEARCH DEGREE?
+PROJECT MANAGEMENT
+DOING YOUR RESEARCH 
+WRITING UP
+GETTING STARTED
+JOURNEY MAP</text>
+		</slide>
+		<slide index="91" title="" titleNormalized="" src="slide92.swf" size="15883" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Writing Up
+Many students, and even seasoned academics, have found themselves staring at their computer screens in a state of anxiety over not being able to start typing up their research, or being unable to formulate coherent sentences. Writer's block can be an incapacitating and extremely stressful experience, and in extreme cases it has lead to students discontinuing their studies.
+
+Conquering writer’s block
+The way to tackle writer’s block often depends on the cause of the problem. 
+
+
+
+
+Writer’s block
+TIP
+Causes of writer’s block
+Possible causes of writer’s block
+Exaggerated fear over the way in which others will judge your work 
+A strong link between academic performance and your self-esteem 
+Perfectionism and/or unrealistic expectations 
+Negative self-talk and self-criticism 
+Personal problems, such as isolation 
+Anxiety over writing, and subsequent avoidance of writing in an attempt to reduce
+From Passman, R.H. 1976 
+and Duke Graduate School
+TIP
+Close
+Logic and Structure of the final document
+Writer’s block
+
+Real academic writing
+CONSIDERING A RESEARCH DEGREE?
+PROJECT MANAGEMENT
+DOING YOUR RESEARCH 
+WRITING UP
+GETTING STARTED
+JOURNEY MAP</text>
+		</slide>
+		<slide index="92" title="" titleNormalized="" src="slide93.swf" size="16204" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Writing Up
+Many students, and even seasoned academics, have found themselves staring at their computer screens in a state of anxiety over not being able to start typing up their research, or being unable to formulate coherent sentences. Writer's block can be an incapacitating and extremely stressful experience, and in extreme cases it has lead to students discontinuing their studies.
+
+Conquering writer’s block
+The way to tackle writer’s block often depends on the cause of the problem. 
+
+
+
+
+Divide your thesis into smaller, more manageable chunks, for example set a goal of writing one segment of a chapter rather than a whole chapter. 
+Set a daily writing target - decide on a realistic amount – and stick to it! Some even say you should not write any more than your target. 
+Try the Pomodoro technique – in which you set an alarm for 25 minutes slots, just for writing.
+Try free writing to break the block – just write whatever comes into your head without stopping. Don’t think or edit. If you get stuck just write, “I’m stuck” over and over again until something else pops into your head. This really works!
+See EPE website – specifically the ‘Just Write’ resource.
+TIP
+Help for writer’s block
+Close
+Logic and Structure of the final document
+Real academic writing
+Writer’s block
+
+CONSIDERING A RESEARCH DEGREE?
+PROJECT MANAGEMENT
+DOING YOUR RESEARCH 
+WRITING UP
+GETTING STARTED
+JOURNEY MAP</text>
+		</slide>
+		<slide index="93" title="" titleNormalized="" src="slide94.swf" size="13069" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Writing Up
+Most research fields have developed fairly standard or typical dissertation structures. While these structures are not prescriptive, it is a good idea to familiarise yourself with the conventions in your discipline, by looking at the layout of dissertations within your discipline on SUNScholar. These conventions have developed because they have an inherent logic and clarity and are also probably familiar to your examiners, so think carefully before you deviate from them. Whichever structure you decide to use, it should be clear, logical, cumulative and easy to follow.  
+
+
+ What is SUNScholar?
+
+ How to make your dissertation clear, logical and easy to follow
+
+ How long should my thesis or dissertation be?
+
+See also Generic guidelines for thesis and dissertation layout
+
+
+
+See this toolkit’s reference list here.
+Logic and Structure
+Real academic writing
+Writer’s block
+
+Logic and Structure of the final document
+TIP
+TIP
+TIP
+CONSIDERING A RESEARCH DEGREE?
+PROJECT MANAGEMENT
+DOING YOUR RESEARCH 
+WRITING UP
+GETTING STARTED
+JOURNEY MAP</text>
+		</slide>
+		<slide index="94" title="" titleNormalized="" src="slide95.swf" size="18915" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Writing Up
+Most research fields have developed fairly standard or typical dissertation structures. While these structures are not prescriptive, it is a good idea to familiarise yourself with the conventions in your discipline, by looking at the layout of dissertation on SUNScholar. These conventions have developed because they have an inherent logic and clarity and are also probably familiar t your examiners, so think carefully before you deviate from them.  Whichever structure you decide to use, it should be clear, logical, cumulative and easy to follow.  
+
+
+ What is SUNScholar?
+
+ How to make your dissertation clear, logic and easy to follow
+
+ How long should my thesis or dissertation be?
+
+Logic and Structure
+Real academic writing
+Writer’s block
+
+Logic and Structure of the final document
+TIP
+TIP
+TIP
+TIP
+What is SUNScholar?
+Close
+SUNScholar is the University’s digital archive of all published SU research outputs. It contains the theses and dissertations of graduated SU students. You can search by faculty, department or even by supervisor, to find out how others in your field have approached their thesis or dissertation structure, layout and formatting. 
+
+Just remember that while all the theses and dissertations on SUNScholar were worthy of conferring a degree, they are not necessarily all examples of good formatting. Always use such examples only as starting points for your own decisions. Discuss your thoughts and ideas with your supervisor and others in your department. SUNScholar can be found at http://scholar.sun.ac.za;
+or you can reach it by Selecting “E-theses” in the search box. Select “Communities and Collections” to see theses and dissertations published by students in your field of research.
+CONSIDERING A RESEARCH DEGREE?
+PROJECT MANAGEMENT
+DOING YOUR RESEARCH 
+WRITING UP
+GETTING STARTED
+JOURNEY MAP</text>
+		</slide>
+		<slide index="95" title="" titleNormalized="" src="slide96.swf" size="16920" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Writing Up
+Most research fields have developed fairly standard or typical dissertation structures. While these structures are not prescriptive, it is a good idea to familiarise yourself with the conventions in your discipline, by looking at the layout of dissertation on SUNScholar. These conventions have developed because they have an inherent logic and clarity and are also probably familiar t your examiners, so think carefully before you deviate from them.  Whichever structure you decide to use, it should be clear, logical, cumulative and easy to follow.  
+
+
+ What is SUNScholar?
+
+ How to make your dissertation clear, logic and easy to follow
+
+ How long should my thesis or dissertation be?
+
+Logic and Structure
+Real academic writing
+Writer’s block
+
+Logic and Structure of the final document
+TIP
+TIP
+TIP
+TIP
+Make your dissertation clear and logical
+Your logic should be cumulative, i.e. readers are provided with all the information they need to move to the next section.
+
+The thesis builds up to its conclusions and recommendations through advancing and clarifying arguments, reasons and evidence for reaching them. See ‘The Thesis as Argument’.
+
+There should be no repetition.  If your structure is logical and cumulative, there should be no need for repetition.
+
+Headings should be relevant to the content and also in logical order
+
+if you change the order in which elements typically appear in a thesis, make sure you don’t leave any expected elements out.
+
+Close
+CONSIDERING A RESEARCH DEGREE?
+PROJECT MANAGEMENT
+DOING YOUR RESEARCH 
+WRITING UP
+GETTING STARTED
+JOURNEY MAP</text>
+		</slide>
+		<slide index="96" title="" titleNormalized="" src="slide97.swf" size="17097" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Writing Up
+Most research fields have developed fairly standard or typical dissertation structures. While these structures are not prescriptive, it is a good idea to familiarise yourself with the conventions in your discipline, by looking at the layout of dissertation on SUNScholar. These conventions have developed because they have an inherent logic and clarity and are also probably familiar t your examiners, so think carefully before you deviate from them.  Whichever structure you decide to use, it should be clear, logical, cumulative and easy to follow.  
+
+
+ What is SUNScholar?
+
+ How to make your dissertation clear, logic and easy to follow
+
+ How long should my thesis or dissertation be?
+
+Logic and Structure
+Real academic writing
+Writer’s block
+
+Logic and Structure of the final document
+TIP
+TIP
+TIP
+How long should my thesis or dissertation be?
+TIP
+Note: the logic of your dissertation and the nature of your study should ultimately determine its length, e.g. complex methodologies will require shorter literature reviews and longer methods sections. Achieving the objective of  the particular part is more important than writing the typical length of pages. Use the lengths given below as starting points only.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Based on the work of Hofstee (2010)
+Close
+Introduction
+10%
+Master's Degree full thesis 
+100 - 120 pages
+Typical lengths for dissertations
+Literature Review
+20%
+Master's Degree mini dissertation after coursework
+60 - 80 pages
+Method
+15%
+PhD, Doctoral Dissertation
+220 pages
+Body
+45%
+The above page numbers are based on double-spacing. Please note that these are guidelines only. Your department, faculty or supervisor might have different prescribed or recommended lengths.
+10%
+Conclusion
+Lengths of the parts
+CONSIDERING A RESEARCH DEGREE?
+PROJECT MANAGEMENT
+DOING YOUR RESEARCH 
+WRITING UP
+GETTING STARTED
+JOURNEY MAP</text>
+		</slide>
+		<slide index="97" title="" titleNormalized="" src="slide98.swf" size="7071" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>References and Further Reading
+CONSIDERING A RESEARCH DEGREE?
+PROJECT MANAGEMENT
+DOING YOUR RESEARCH 
+WRITING UP
+GETTING STARTED
+JOURNEY MAP
+Bak, N (2004) Completing your thesis: A practical guide. Pretoria: Van Schaik.
+
+Duke Graduate School, Beyond Writers Block. 
+
+Ellis, T. and Levy, Y (2008) "Framework of Problem-Based Research: A Guide for Novice Researchers on the Development of a Research-Worthy Problem" in Informing Science: the International Journal of an Emerging Transdiscipline, 11:17. 
+
+Helm, C.A.G. and Van der Westhuizen, S.J.C. (1999). Resep vir die begeleiding van nagraadse navorsingstudente - `n literatuurstudie, SA Journal of Education, Vol 11, no.2, p57-60. 
+
+Hofstee, E (2010) Constructing a Good Dissertation: A Practical Guide to Finishing a Master's, MBA or PhD on Schedule. Johannesburg, South Africa: EPE.
+
+Moses, I. (1985). Supervising Postgraduates: Green guide no.3, HERDSA
+
+Mouton, J (2001) How to succeed in your Master's &amp; Doctoral Studies: A South African Guide and Resource Book. Pretoria, South Africa: Van Schaik.
+
+Parajuli, M (2008) Strategies for qualitative research. 
+
+Passman, R.H. 1976. A procedure for eliminating writers block in a college student. Journal of Behavior Therapy and Experimental Psychiatry, 7(3): 297-298.
+
+Useful South African postgraduate web resource site: www.postgradenvironments.com
+</text>
+		</slide>
+	</slides>
+</presentation>
